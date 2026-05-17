@@ -1,0 +1,7202 @@
+[
+  {
+    "image_filename": "data/imagenet_1k\\0.png",
+    "concept": "knot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1.png",
+    "concept": "Greater Swiss Mountain dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\2.png",
+    "concept": "banana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\3.png",
+    "concept": "reel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\4.png",
+    "concept": "abacus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\5.png",
+    "concept": "Brabancon griffon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\6.png",
+    "concept": "Granny Smith"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\7.png",
+    "concept": "dogsled, dog sled, dog sleigh"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\8.png",
+    "concept": "agaric"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\9.png",
+    "concept": "zucchini, courgette"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\10.png",
+    "concept": "stinkhorn, carrion fungus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\11.png",
+    "concept": "bison"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\12.png",
+    "concept": "palace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\13.png",
+    "concept": "admiral"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\14.png",
+    "concept": "submarine, pigboat, sub, U-boat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\15.png",
+    "concept": "pizza, pizza pie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\16.png",
+    "concept": "milk can"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\17.png",
+    "concept": "buckle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\18.png",
+    "concept": "electric fan, blower"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\19.png",
+    "concept": "oxygen mask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\20.png",
+    "concept": "pineapple, ananas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\21.png",
+    "concept": "sock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\22.png",
+    "concept": "Egyptian cat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\23.png",
+    "concept": "airship, dirigible"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\24.png",
+    "concept": "Petri dish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\25.png",
+    "concept": "menu"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\26.png",
+    "concept": "bassoon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\27.png",
+    "concept": "nipple"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\28.png",
+    "concept": "drake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\29.png",
+    "concept": "hay"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\30.png",
+    "concept": "white wolf, Arctic wolf, Canis lupus tundrarum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\31.png",
+    "concept": "wig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\32.png",
+    "concept": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\33.png",
+    "concept": "pineapple, ananas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\34.png",
+    "concept": "kimono"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\35.png",
+    "concept": "ice lolly, lolly, lollipop, popsicle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\36.png",
+    "concept": "thimble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\37.png",
+    "concept": "Dandie Dinmont, Dandie Dinmont terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\38.png",
+    "concept": "paintbrush"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\39.png",
+    "concept": "kit fox, Vulpes macrotis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\40.png",
+    "concept": "doormat, welcome mat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\41.png",
+    "concept": "tarantula"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\42.png",
+    "concept": "brass, memorial tablet, plaque"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\43.png",
+    "concept": "stole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\44.png",
+    "concept": "electric guitar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\45.png",
+    "concept": "jersey, T-shirt, tee shirt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\46.png",
+    "concept": "beagle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\47.png",
+    "concept": "orange"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\48.png",
+    "concept": "geyser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\49.png",
+    "concept": "Border terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\50.png",
+    "concept": "toilet tissue, toilet paper, bathroom tissue"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\51.png",
+    "concept": "barrow, garden cart, lawn cart, wheelbarrow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\52.png",
+    "concept": "convertible"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\53.png",
+    "concept": "bathing cap, swimming cap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\54.png",
+    "concept": "bonnet, poke bonnet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\55.png",
+    "concept": "Pembroke, Pembroke Welsh corgi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\56.png",
+    "concept": "barometer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\57.png",
+    "concept": "folding chair"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\58.png",
+    "concept": "dumbbell"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\59.png",
+    "concept": "backpack, back pack, knapsack, packsack, rucksack, haversack"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\60.png",
+    "concept": "projectile, missile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\61.png",
+    "concept": "grey fox, gray fox, Urocyon cinereoargenteus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\62.png",
+    "concept": "dishrag, dishcloth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\63.png",
+    "concept": "tiger beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\64.png",
+    "concept": "Mexican hairless"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\65.png",
+    "concept": "ringneck snake, ring-necked snake, ring snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\66.png",
+    "concept": "groom, bridegroom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\67.png",
+    "concept": "American black bear, black bear, Ursus americanus, Euarctos americanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\68.png",
+    "concept": "ear, spike, capitulum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\69.png",
+    "concept": "European fire salamander, Salamandra salamandra"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\70.png",
+    "concept": "sorrel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\71.png",
+    "concept": "modem"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\72.png",
+    "concept": "ballpoint, ballpoint pen, ballpen, Biro"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\73.png",
+    "concept": "punching bag, punch bag, punching ball, punchball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\74.png",
+    "concept": "guacamole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\75.png",
+    "concept": "face powder"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\76.png",
+    "concept": "soap dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\77.png",
+    "concept": "albatross, mollymawk"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\78.png",
+    "concept": "bath towel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\79.png",
+    "concept": "thimble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\80.png",
+    "concept": "ski"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\81.png",
+    "concept": "ground beetle, carabid beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\82.png",
+    "concept": "bee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\83.png",
+    "concept": "jean, blue jean, denim"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\84.png",
+    "concept": "car wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\85.png",
+    "concept": "Weimaraner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\86.png",
+    "concept": "miniature poodle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\87.png",
+    "concept": "castle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\88.png",
+    "concept": "maze, labyrinth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\89.png",
+    "concept": "schooner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\90.png",
+    "concept": "stethoscope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\91.png",
+    "concept": "Norfolk terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\92.png",
+    "concept": "warthog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\93.png",
+    "concept": "combination lock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\94.png",
+    "concept": "sports car, sport car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\95.png",
+    "concept": "bell cote, bell cot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\96.png",
+    "concept": "bearskin, busby, shako"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\97.png",
+    "concept": "ice cream, icecream"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\98.png",
+    "concept": "hotdog, hot dog, red hot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\99.png",
+    "concept": "jeep, landrover"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\100.png",
+    "concept": "kuvasz"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\101.png",
+    "concept": "washbasin, handbasin, washbowl, lavabo, wash-hand basin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\102.png",
+    "concept": "wool, woolen, woollen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\103.png",
+    "concept": "Ibizan hound, Ibizan Podenco"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\104.png",
+    "concept": "bath towel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\105.png",
+    "concept": "red wolf, maned wolf, Canis rufus, Canis niger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\106.png",
+    "concept": "remote control, remote"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\107.png",
+    "concept": "water jug"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\108.png",
+    "concept": "quail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\109.png",
+    "concept": "black stork, Ciconia nigra"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\110.png",
+    "concept": "kelpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\111.png",
+    "concept": "electric ray, crampfish, numbfish, torpedo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\112.png",
+    "concept": "giant schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\113.png",
+    "concept": "golf ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\114.png",
+    "concept": "menu"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\115.png",
+    "concept": "fly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\116.png",
+    "concept": "brassiere, bra, bandeau"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\117.png",
+    "concept": "meerkat, mierkat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\118.png",
+    "concept": "wombat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\119.png",
+    "concept": "Newfoundland, Newfoundland dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\120.png",
+    "concept": "baboon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\121.png",
+    "concept": "walking stick, walkingstick, stick insect"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\122.png",
+    "concept": "wool, woolen, woollen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\123.png",
+    "concept": "hourglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\124.png",
+    "concept": "shoe shop, shoe-shop, shoe store"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\125.png",
+    "concept": "ox"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\126.png",
+    "concept": "lotion"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\127.png",
+    "concept": "oil filter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\128.png",
+    "concept": "gas pump, gasoline pump, petrol pump, island dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\129.png",
+    "concept": "tricycle, trike, velocipede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\130.png",
+    "concept": "dumbbell"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\131.png",
+    "concept": "Pembroke, Pembroke Welsh corgi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\132.png",
+    "concept": "bee eater"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\133.png",
+    "concept": "gar, garfish, garpike, billfish, Lepisosteus osseus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\134.png",
+    "concept": "lionfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\135.png",
+    "concept": "three-toed sloth, ai, Bradypus tridactylus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\136.png",
+    "concept": "Scottish deerhound, deerhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\137.png",
+    "concept": "potter's wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\138.png",
+    "concept": "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\139.png",
+    "concept": "hay"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\140.png",
+    "concept": "starfish, sea star"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\141.png",
+    "concept": "oxygen mask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\142.png",
+    "concept": "little blue heron, Egretta caerulea"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\143.png",
+    "concept": "megalith, megalithic structure"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\144.png",
+    "concept": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\145.png",
+    "concept": "Newfoundland, Newfoundland dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\146.png",
+    "concept": "confectionery, confectionary, candy store"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\147.png",
+    "concept": "Shetland sheepdog, Shetland sheep dog, Shetland"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\148.png",
+    "concept": "moving van"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\149.png",
+    "concept": "tiger, Panthera tigris"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\150.png",
+    "concept": "Band Aid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\151.png",
+    "concept": "buckle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\152.png",
+    "concept": "scuba diver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\153.png",
+    "concept": "traffic light, traffic signal, stoplight"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\154.png",
+    "concept": "vine snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\155.png",
+    "concept": "reel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\156.png",
+    "concept": "viaduct"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\157.png",
+    "concept": "photocopier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\158.png",
+    "concept": "chime, bell, gong"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\159.png",
+    "concept": "bubble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\160.png",
+    "concept": "artichoke, globe artichoke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\161.png",
+    "concept": "stretcher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\162.png",
+    "concept": "toucan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\163.png",
+    "concept": "Shih-Tzu"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\164.png",
+    "concept": "tiger beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\165.png",
+    "concept": "barn spider, Araneus cavaticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\166.png",
+    "concept": "neck brace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\167.png",
+    "concept": "bluetick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\168.png",
+    "concept": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\169.png",
+    "concept": "stupa, tope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\170.png",
+    "concept": "sock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\171.png",
+    "concept": "sea slug, nudibranch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\172.png",
+    "concept": "mobile home, manufactured home"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\173.png",
+    "concept": "kelpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\174.png",
+    "concept": "bee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\175.png",
+    "concept": "maillot, tank suit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\176.png",
+    "concept": "rocking chair, rocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\177.png",
+    "concept": "carbonara"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\178.png",
+    "concept": "clumber, clumber spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\179.png",
+    "concept": "English setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\180.png",
+    "concept": "snail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\181.png",
+    "concept": "bluetick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\182.png",
+    "concept": "soup bowl"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\183.png",
+    "concept": "European gallinule, Porphyrio porphyrio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\184.png",
+    "concept": "scale, weighing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\185.png",
+    "concept": "pool table, billiard table, snooker table"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\186.png",
+    "concept": "shovel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\187.png",
+    "concept": "stove"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\188.png",
+    "concept": "common iguana, iguana, Iguana iguana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\189.png",
+    "concept": "schooner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\190.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\191.png",
+    "concept": "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\192.png",
+    "concept": "German shepherd, German shepherd dog, German police dog, alsatian"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\193.png",
+    "concept": "photocopier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\194.png",
+    "concept": "yurt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\195.png",
+    "concept": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\196.png",
+    "concept": "tench, Tinca tinca"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\197.png",
+    "concept": "basset, basset hound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\198.png",
+    "concept": "gibbon, Hylobates lar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\199.png",
+    "concept": "box turtle, box tortoise"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\200.png",
+    "concept": "Greater Swiss Mountain dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\201.png",
+    "concept": "black grouse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\202.png",
+    "concept": "European gallinule, Porphyrio porphyrio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\203.png",
+    "concept": "stupa, tope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\204.png",
+    "concept": "stage"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\205.png",
+    "concept": "vacuum, vacuum cleaner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\206.png",
+    "concept": "space shuttle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\207.png",
+    "concept": "meat loaf, meatloaf"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\208.png",
+    "concept": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\209.png",
+    "concept": "reflex camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\210.png",
+    "concept": "coyote, prairie wolf, brush wolf, Canis latrans"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\211.png",
+    "concept": "switch, electric switch, electrical switch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\212.png",
+    "concept": "malamute, malemute, Alaskan malamute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\213.png",
+    "concept": "hourglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\214.png",
+    "concept": "Tibetan mastiff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\215.png",
+    "concept": "lampshade, lamp shade"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\216.png",
+    "concept": "apron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\217.png",
+    "concept": "mink"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\218.png",
+    "concept": "chocolate sauce, chocolate syrup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\219.png",
+    "concept": "harp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\220.png",
+    "concept": "studio couch, day bed"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\221.png",
+    "concept": "golfcart, golf cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\222.png",
+    "concept": "cauliflower"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\223.png",
+    "concept": "Siamese cat, Siamese"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\224.png",
+    "concept": "cuirass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\225.png",
+    "concept": "rugby ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\226.png",
+    "concept": "hamper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\227.png",
+    "concept": "entertainment center"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\228.png",
+    "concept": "school bus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\229.png",
+    "concept": "book jacket, dust cover, dust jacket, dust wrapper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\230.png",
+    "concept": "otterhound, otter hound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\231.png",
+    "concept": "dhole, Cuon alpinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\232.png",
+    "concept": "German short-haired pointer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\233.png",
+    "concept": "amphibian, amphibious vehicle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\234.png",
+    "concept": "Crock Pot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\235.png",
+    "concept": "Samoyed, Samoyede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\236.png",
+    "concept": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\237.png",
+    "concept": "German shepherd, German shepherd dog, German police dog, alsatian"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\238.png",
+    "concept": "butcher shop, meat market"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\239.png",
+    "concept": "hatchet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\240.png",
+    "concept": "water jug"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\241.png",
+    "concept": "chickadee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\242.png",
+    "concept": "Blenheim spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\243.png",
+    "concept": "bearskin, busby, shako"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\244.png",
+    "concept": "vault"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\245.png",
+    "concept": "tiger shark, Galeocerdo cuvieri"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\246.png",
+    "concept": "tiger, Panthera tigris"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\247.png",
+    "concept": "daisy"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\248.png",
+    "concept": "monitor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\249.png",
+    "concept": "envelope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\250.png",
+    "concept": "totem pole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\251.png",
+    "concept": "African crocodile, Nile crocodile, Crocodylus niloticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\252.png",
+    "concept": "grey fox, gray fox, Urocyon cinereoargenteus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\253.png",
+    "concept": "sleeping bag"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\254.png",
+    "concept": "jean, blue jean, denim"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\255.png",
+    "concept": "plane, carpenter's plane, woodworking plane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\256.png",
+    "concept": "microphone, mike"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\257.png",
+    "concept": "pickup, pickup truck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\258.png",
+    "concept": "sea snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\259.png",
+    "concept": "freight car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\260.png",
+    "concept": "bathtub, bathing tub, bath, tub"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\261.png",
+    "concept": "junco, snowbird"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\262.png",
+    "concept": "mosque"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\263.png",
+    "concept": "bikini, two-piece"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\264.png",
+    "concept": "pirate, pirate ship"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\265.png",
+    "concept": "fox squirrel, eastern fox squirrel, Sciurus niger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\266.png",
+    "concept": "triumphal arch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\267.png",
+    "concept": "chocolate sauce, chocolate syrup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\268.png",
+    "concept": "curly-coated retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\269.png",
+    "concept": "American black bear, black bear, Ursus americanus, Euarctos americanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\270.png",
+    "concept": "shovel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\271.png",
+    "concept": "red-backed sandpiper, dunlin, Erolia alpina"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\272.png",
+    "concept": "four-poster"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\273.png",
+    "concept": "macaw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\274.png",
+    "concept": "Norwegian elkhound, elkhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\275.png",
+    "concept": "Old English sheepdog, bobtail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\276.png",
+    "concept": "loggerhead, loggerhead turtle, Caretta caretta"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\277.png",
+    "concept": "bib"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\278.png",
+    "concept": "acoustic guitar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\279.png",
+    "concept": "wood rabbit, cottontail, cottontail rabbit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\280.png",
+    "concept": "medicine chest, medicine cabinet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\281.png",
+    "concept": "vizsla, Hungarian pointer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\282.png",
+    "concept": "car mirror"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\283.png",
+    "concept": "jigsaw puzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\284.png",
+    "concept": "fur coat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\285.png",
+    "concept": "matchstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\286.png",
+    "concept": "snowplow, snowplough"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\287.png",
+    "concept": "barrel, cask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\288.png",
+    "concept": "Chesapeake Bay retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\289.png",
+    "concept": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\290.png",
+    "concept": "Rhodesian ridgeback"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\291.png",
+    "concept": "Blenheim spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\292.png",
+    "concept": "carousel, carrousel, merry-go-round, roundabout, whirligig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\293.png",
+    "concept": "flagpole, flagstaff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\294.png",
+    "concept": "suit, suit of clothes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\295.png",
+    "concept": "Doberman, Doberman pinscher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\296.png",
+    "concept": "modem"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\297.png",
+    "concept": "guacamole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\298.png",
+    "concept": "crayfish, crawfish, crawdad, crawdaddy"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\299.png",
+    "concept": "scorpion"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\300.png",
+    "concept": "tow truck, tow car, wrecker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\301.png",
+    "concept": "gasmask, respirator, gas helmet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\302.png",
+    "concept": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\303.png",
+    "concept": "polecat, fitch, foulmart, foumart, Mustela putorius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\304.png",
+    "concept": "ground beetle, carabid beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\305.png",
+    "concept": "Pekinese, Pekingese, Peke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\306.png",
+    "concept": "balance beam, beam"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\307.png",
+    "concept": "Petri dish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\308.png",
+    "concept": "prison, prison house"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\309.png",
+    "concept": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\310.png",
+    "concept": "kit fox, Vulpes macrotis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\311.png",
+    "concept": "puck, hockey puck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\312.png",
+    "concept": "rocking chair, rocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\313.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\314.png",
+    "concept": "freight car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\315.png",
+    "concept": "crane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\316.png",
+    "concept": "screwdriver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\317.png",
+    "concept": "consomme"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\318.png",
+    "concept": "yurt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\319.png",
+    "concept": "ram, tup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\320.png",
+    "concept": "fur coat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\321.png",
+    "concept": "Polaroid camera, Polaroid Land camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\322.png",
+    "concept": "Labrador retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\323.png",
+    "concept": "ground beetle, carabid beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\324.png",
+    "concept": "tench, Tinca tinca"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\325.png",
+    "concept": "mousetrap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\326.png",
+    "concept": "chow, chow chow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\327.png",
+    "concept": "china cabinet, china closet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\328.png",
+    "concept": "parachute, chute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\329.png",
+    "concept": "racer, race car, racing car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\330.png",
+    "concept": "dishrag, dishcloth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\331.png",
+    "concept": "hair slide"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\332.png",
+    "concept": "quilt, comforter, comfort, puff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\333.png",
+    "concept": "briard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\334.png",
+    "concept": "syringe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\335.png",
+    "concept": "cabbage butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\336.png",
+    "concept": "pinwheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\337.png",
+    "concept": "squirrel monkey, Saimiri sciureus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\338.png",
+    "concept": "badger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\339.png",
+    "concept": "sarong"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\340.png",
+    "concept": "butcher shop, meat market"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\341.png",
+    "concept": "hand blower, blow dryer, blow drier, hair dryer, hair drier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\342.png",
+    "concept": "sundial"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\343.png",
+    "concept": "king penguin, Aptenodytes patagonica"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\344.png",
+    "concept": "digital clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\345.png",
+    "concept": "Crock Pot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\346.png",
+    "concept": "bolete"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\347.png",
+    "concept": "siamang, Hylobates syndactylus, Symphalangus syndactylus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\348.png",
+    "concept": "balloon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\349.png",
+    "concept": "missile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\350.png",
+    "concept": "ocarina, sweet potato"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\351.png",
+    "concept": "meerkat, mierkat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\352.png",
+    "concept": "cricket"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\353.png",
+    "concept": "caldron, cauldron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\354.png",
+    "concept": "sloth bear, Melursus ursinus, Ursus ursinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\355.png",
+    "concept": "feather boa, boa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\356.png",
+    "concept": "jinrikisha, ricksha, rickshaw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\357.png",
+    "concept": "racer, race car, racing car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\358.png",
+    "concept": "airliner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\359.png",
+    "concept": "colobus, colobus monkey"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\360.png",
+    "concept": "velvet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\361.png",
+    "concept": "water bottle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\362.png",
+    "concept": "pug, pug-dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\363.png",
+    "concept": "joystick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\364.png",
+    "concept": "syringe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\365.png",
+    "concept": "pencil box, pencil case"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\366.png",
+    "concept": "harvestman, daddy longlegs, Phalangium opilio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\367.png",
+    "concept": "wood rabbit, cottontail, cottontail rabbit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\368.png",
+    "concept": "cinema, movie theater, movie theatre, movie house, picture palace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\369.png",
+    "concept": "thatch, thatched roof"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\370.png",
+    "concept": "dhole, Cuon alpinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\371.png",
+    "concept": "hippopotamus, hippo, river horse, Hippopotamus amphibius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\372.png",
+    "concept": "drumstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\373.png",
+    "concept": "neck brace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\374.png",
+    "concept": "Saluki, gazelle hound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\375.png",
+    "concept": "thimble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\376.png",
+    "concept": "backpack, back pack, knapsack, packsack, rucksack, haversack"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\377.png",
+    "concept": "macaque"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\378.png",
+    "concept": "whiskey jug"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\379.png",
+    "concept": "parking meter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\380.png",
+    "concept": "otterhound, otter hound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\381.png",
+    "concept": "American lobster, Northern lobster, Maine lobster, Homarus americanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\382.png",
+    "concept": "modem"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\383.png",
+    "concept": "leopard, Panthera pardus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\384.png",
+    "concept": "jack-o'-lantern"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\385.png",
+    "concept": "ski mask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\386.png",
+    "concept": "gibbon, Hylobates lar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\387.png",
+    "concept": "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\388.png",
+    "concept": "cabbage butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\389.png",
+    "concept": "teapot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\390.png",
+    "concept": "necklace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\391.png",
+    "concept": "container ship, containership, container vessel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\392.png",
+    "concept": "cup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\393.png",
+    "concept": "siamang, Hylobates syndactylus, Symphalangus syndactylus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\394.png",
+    "concept": "Appenzeller"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\395.png",
+    "concept": "liner, ocean liner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\396.png",
+    "concept": "carton"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\397.png",
+    "concept": "American chameleon, anole, Anolis carolinensis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\398.png",
+    "concept": "screw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\399.png",
+    "concept": "chain saw, chainsaw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\400.png",
+    "concept": "wool, woolen, woollen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\401.png",
+    "concept": "prairie chicken, prairie grouse, prairie fowl"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\402.png",
+    "concept": "buckeye, horse chestnut, conker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\403.png",
+    "concept": "mushroom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\404.png",
+    "concept": "otterhound, otter hound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\405.png",
+    "concept": "American egret, great white heron, Egretta albus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\406.png",
+    "concept": "fire engine, fire truck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\407.png",
+    "concept": "snowmobile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\408.png",
+    "concept": "barbershop"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\409.png",
+    "concept": "Siberian husky"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\410.png",
+    "concept": "goose"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\411.png",
+    "concept": "stinkhorn, carrion fungus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\412.png",
+    "concept": "reel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\413.png",
+    "concept": "hamster"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\414.png",
+    "concept": "agama"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\415.png",
+    "concept": "sunscreen, sunblock, sun blocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\416.png",
+    "concept": "wild boar, boar, Sus scrofa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\417.png",
+    "concept": "umbrella"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\418.png",
+    "concept": "obelisk"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\419.png",
+    "concept": "Eskimo dog, husky"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\420.png",
+    "concept": "garbage truck, dustcart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\421.png",
+    "concept": "cocker spaniel, English cocker spaniel, cocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\422.png",
+    "concept": "affenpinscher, monkey pinscher, monkey dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\423.png",
+    "concept": "mashed potato"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\424.png",
+    "concept": "lampshade, lamp shade"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\425.png",
+    "concept": "ram, tup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\426.png",
+    "concept": "lorikeet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\427.png",
+    "concept": "iPod"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\428.png",
+    "concept": "beagle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\429.png",
+    "concept": "little blue heron, Egretta caerulea"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\430.png",
+    "concept": "scabbard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\431.png",
+    "concept": "hartebeest"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\432.png",
+    "concept": "Irish wolfhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\433.png",
+    "concept": "groom, bridegroom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\434.png",
+    "concept": "coffeepot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\435.png",
+    "concept": "safety pin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\436.png",
+    "concept": "syringe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\437.png",
+    "concept": "black stork, Ciconia nigra"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\438.png",
+    "concept": "lion, king of beasts, Panthera leo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\439.png",
+    "concept": "hip, rose hip, rosehip"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\440.png",
+    "concept": "rocking chair, rocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\441.png",
+    "concept": "weevil"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\442.png",
+    "concept": "Brittany spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\443.png",
+    "concept": "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\444.png",
+    "concept": "television, television system"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\445.png",
+    "concept": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\446.png",
+    "concept": "wooden spoon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\447.png",
+    "concept": "water tower"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\448.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\449.png",
+    "concept": "Italian greyhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\450.png",
+    "concept": "bib"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\451.png",
+    "concept": "drilling platform, offshore rig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\452.png",
+    "concept": "basketball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\453.png",
+    "concept": "stone wall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\454.png",
+    "concept": "crossword puzzle, crossword"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\455.png",
+    "concept": "beacon, lighthouse, beacon light, pharos"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\456.png",
+    "concept": "picket fence, paling"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\457.png",
+    "concept": "daisy"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\458.png",
+    "concept": "bee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\459.png",
+    "concept": "common newt, Triturus vulgaris"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\460.png",
+    "concept": "shoji"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\461.png",
+    "concept": "orangutan, orang, orangutang, Pongo pygmaeus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\462.png",
+    "concept": "cliff dwelling"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\463.png",
+    "concept": "Border terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\464.png",
+    "concept": "puck, hockey puck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\465.png",
+    "concept": "ibex, Capra ibex"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\466.png",
+    "concept": "groenendael"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\467.png",
+    "concept": "monastery"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\468.png",
+    "concept": "beaver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\469.png",
+    "concept": "Egyptian cat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\470.png",
+    "concept": "piggy bank, penny bank"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\471.png",
+    "concept": "whippet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\472.png",
+    "concept": "book jacket, dust cover, dust jacket, dust wrapper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\473.png",
+    "concept": "forklift"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\474.png",
+    "concept": "alp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\475.png",
+    "concept": "pencil sharpener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\476.png",
+    "concept": "Siberian husky"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\477.png",
+    "concept": "bluetick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\478.png",
+    "concept": "Italian greyhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\479.png",
+    "concept": "vault"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\480.png",
+    "concept": "Windsor tie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\481.png",
+    "concept": "leaf beetle, chrysomelid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\482.png",
+    "concept": "hare"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\483.png",
+    "concept": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\484.png",
+    "concept": "sunglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\485.png",
+    "concept": "sombrero"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\486.png",
+    "concept": "viaduct"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\487.png",
+    "concept": "oystercatcher, oyster catcher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\488.png",
+    "concept": "fire engine, fire truck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\489.png",
+    "concept": "paintbrush"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\490.png",
+    "concept": "face powder"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\491.png",
+    "concept": "alligator lizard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\492.png",
+    "concept": "lens cap, lens cover"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\493.png",
+    "concept": "Lhasa, Lhasa apso"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\494.png",
+    "concept": "badger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\495.png",
+    "concept": "hotdog, hot dog, red hot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\496.png",
+    "concept": "cannon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\497.png",
+    "concept": "bottlecap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\498.png",
+    "concept": "spider monkey, Ateles geoffroyi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\499.png",
+    "concept": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\500.png",
+    "concept": "vestment"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\501.png",
+    "concept": "restaurant, eating house, eating place, eatery"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\502.png",
+    "concept": "hammer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\503.png",
+    "concept": "pirate, pirate ship"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\504.png",
+    "concept": "tank, army tank, armored combat vehicle, armoured combat vehicle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\505.png",
+    "concept": "whiptail, whiptail lizard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\506.png",
+    "concept": "wall clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\507.png",
+    "concept": "patas, hussar monkey, Erythrocebus patas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\508.png",
+    "concept": "French bulldog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\509.png",
+    "concept": "cloak"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\510.png",
+    "concept": "thatch, thatched roof"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\511.png",
+    "concept": "megalith, megalithic structure"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\512.png",
+    "concept": "sundial"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\513.png",
+    "concept": "can opener, tin opener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\514.png",
+    "concept": "mixing bowl"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\515.png",
+    "concept": "mailbox, letter box"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\516.png",
+    "concept": "carousel, carrousel, merry-go-round, roundabout, whirligig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\517.png",
+    "concept": "golden retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\518.png",
+    "concept": "peacock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\519.png",
+    "concept": "moped"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\520.png",
+    "concept": "burrito"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\521.png",
+    "concept": "ping-pong ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\522.png",
+    "concept": "hartebeest"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\523.png",
+    "concept": "Samoyed, Samoyede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\524.png",
+    "concept": "Greater Swiss Mountain dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\525.png",
+    "concept": "gondola"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\526.png",
+    "concept": "jigsaw puzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\527.png",
+    "concept": "barrel, cask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\528.png",
+    "concept": "speedboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\529.png",
+    "concept": "hen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\530.png",
+    "concept": "Irish terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\531.png",
+    "concept": "pizza, pizza pie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\532.png",
+    "concept": "sea lion"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\533.png",
+    "concept": "fireboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\534.png",
+    "concept": "green mamba"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\535.png",
+    "concept": "siamang, Hylobates syndactylus, Symphalangus syndactylus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\536.png",
+    "concept": "coral fungus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\537.png",
+    "concept": "torch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\538.png",
+    "concept": "valley, vale"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\539.png",
+    "concept": "wombat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\540.png",
+    "concept": "ice cream, icecream"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\541.png",
+    "concept": "jellyfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\542.png",
+    "concept": "umbrella"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\543.png",
+    "concept": "liner, ocean liner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\544.png",
+    "concept": "iron, smoothing iron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\545.png",
+    "concept": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\546.png",
+    "concept": "oxcart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\547.png",
+    "concept": "mitten"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\548.png",
+    "concept": "vault"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\549.png",
+    "concept": "groom, bridegroom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\550.png",
+    "concept": "leaf beetle, chrysomelid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\551.png",
+    "concept": "typewriter keyboard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\552.png",
+    "concept": "sundial"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\553.png",
+    "concept": "tray"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\554.png",
+    "concept": "apiary, bee house"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\555.png",
+    "concept": "toaster"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\556.png",
+    "concept": "mountain tent"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\557.png",
+    "concept": "studio couch, day bed"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\558.png",
+    "concept": "lionfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\559.png",
+    "concept": "maillot, tank suit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\560.png",
+    "concept": "indri, indris, Indri indri, Indri brevicaudatus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\561.png",
+    "concept": "reflex camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\562.png",
+    "concept": "barn spider, Araneus cavaticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\563.png",
+    "concept": "vestment"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\564.png",
+    "concept": "hyena, hyaena"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\565.png",
+    "concept": "vacuum, vacuum cleaner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\566.png",
+    "concept": "pineapple, ananas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\567.png",
+    "concept": "pay-phone, pay-station"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\568.png",
+    "concept": "lawn mower, mower"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\569.png",
+    "concept": "cheeseburger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\570.png",
+    "concept": "ringlet, ringlet butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\571.png",
+    "concept": "airliner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\572.png",
+    "concept": "teapot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\573.png",
+    "concept": "apron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\574.png",
+    "concept": "sea urchin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\575.png",
+    "concept": "bassinet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\576.png",
+    "concept": "triceratops"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\577.png",
+    "concept": "Kerry blue terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\578.png",
+    "concept": "spider web, spider's web"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\579.png",
+    "concept": "parallel bars, bars"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\580.png",
+    "concept": "patio, terrace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\581.png",
+    "concept": "wild boar, boar, Sus scrofa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\582.png",
+    "concept": "bookcase"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\583.png",
+    "concept": "bonnet, poke bonnet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\584.png",
+    "concept": "giant schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\585.png",
+    "concept": "trilobite"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\586.png",
+    "concept": "brass, memorial tablet, plaque"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\587.png",
+    "concept": "chickadee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\588.png",
+    "concept": "spatula"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\589.png",
+    "concept": "backpack, back pack, knapsack, packsack, rucksack, haversack"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\590.png",
+    "concept": "scuba diver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\591.png",
+    "concept": "Newfoundland, Newfoundland dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\592.png",
+    "concept": "French bulldog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\593.png",
+    "concept": "patas, hussar monkey, Erythrocebus patas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\594.png",
+    "concept": "harvester, reaper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\595.png",
+    "concept": "padlock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\596.png",
+    "concept": "sea snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\597.png",
+    "concept": "Chesapeake Bay retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\598.png",
+    "concept": "flamingo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\599.png",
+    "concept": "loupe, jeweler's loupe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\600.png",
+    "concept": "sunglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\601.png",
+    "concept": "ox"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\602.png",
+    "concept": "cowboy hat, ten-gallon hat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\603.png",
+    "concept": "harvestman, daddy longlegs, Phalangium opilio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\604.png",
+    "concept": "drilling platform, offshore rig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\605.png",
+    "concept": "Brabancon griffon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\606.png",
+    "concept": "waffle iron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\607.png",
+    "concept": "Norwegian elkhound, elkhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\608.png",
+    "concept": "Saluki, gazelle hound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\609.png",
+    "concept": "carousel, carrousel, merry-go-round, roundabout, whirligig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\610.png",
+    "concept": "jay"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\611.png",
+    "concept": "hard disc, hard disk, fixed disk"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\612.png",
+    "concept": "canoe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\613.png",
+    "concept": "scuba diver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\614.png",
+    "concept": "dumbbell"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\615.png",
+    "concept": "cabbage butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\616.png",
+    "concept": "birdhouse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\617.png",
+    "concept": "slot, one-armed bandit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\618.png",
+    "concept": "hand-held computer, hand-held microcomputer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\619.png",
+    "concept": "baseball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\620.png",
+    "concept": "ostrich, Struthio camelus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\621.png",
+    "concept": "potpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\622.png",
+    "concept": "vacuum, vacuum cleaner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\623.png",
+    "concept": "schooner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\624.png",
+    "concept": "obelisk"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\625.png",
+    "concept": "drumstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\626.png",
+    "concept": "broccoli"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\627.png",
+    "concept": "steel arch bridge"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\628.png",
+    "concept": "grand piano, grand"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\629.png",
+    "concept": "toy poodle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\630.png",
+    "concept": "Walker hound, Walker foxhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\631.png",
+    "concept": "Japanese spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\632.png",
+    "concept": "mortar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\633.png",
+    "concept": "volleyball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\634.png",
+    "concept": "disk brake, disc brake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\635.png",
+    "concept": "crate"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\636.png",
+    "concept": "microphone, mike"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\637.png",
+    "concept": "harmonica, mouth organ, harp, mouth harp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\638.png",
+    "concept": "pineapple, ananas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\639.png",
+    "concept": "snow leopard, ounce, Panthera uncia"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\640.png",
+    "concept": "garter snake, grass snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\641.png",
+    "concept": "web site, website, internet site, site"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\642.png",
+    "concept": "hamper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\643.png",
+    "concept": "toyshop"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\644.png",
+    "concept": "sunscreen, sunblock, sun blocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\645.png",
+    "concept": "oscilloscope, scope, cathode-ray oscilloscope, CRO"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\646.png",
+    "concept": "goose"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\647.png",
+    "concept": "hartebeest"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\648.png",
+    "concept": "ear, spike, capitulum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\649.png",
+    "concept": "Maltese dog, Maltese terrier, Maltese"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\650.png",
+    "concept": "catamaran"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\651.png",
+    "concept": "stethoscope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\652.png",
+    "concept": "parachute, chute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\653.png",
+    "concept": "can opener, tin opener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\654.png",
+    "concept": "bee eater"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\655.png",
+    "concept": "barrow, garden cart, lawn cart, wheelbarrow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\656.png",
+    "concept": "lumbermill, sawmill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\657.png",
+    "concept": "slide rule, slipstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\658.png",
+    "concept": "scabbard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\659.png",
+    "concept": "valley, vale"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\660.png",
+    "concept": "black-footed ferret, ferret, Mustela nigripes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\661.png",
+    "concept": "swimming trunks, bathing trunks"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\662.png",
+    "concept": "dishrag, dishcloth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\663.png",
+    "concept": "Granny Smith"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\664.png",
+    "concept": "chain saw, chainsaw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\665.png",
+    "concept": "minivan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\666.png",
+    "concept": "suspension bridge"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\667.png",
+    "concept": "beaver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\668.png",
+    "concept": "albatross, mollymawk"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\669.png",
+    "concept": "great grey owl, great gray owl, Strix nebulosa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\670.png",
+    "concept": "starfish, sea star"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\671.png",
+    "concept": "organ, pipe organ"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\672.png",
+    "concept": "broccoli"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\673.png",
+    "concept": "bagel, beigel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\674.png",
+    "concept": "fountain"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\675.png",
+    "concept": "Gordon setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\676.png",
+    "concept": "corn"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\677.png",
+    "concept": "standard schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\678.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\679.png",
+    "concept": "chickadee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\680.png",
+    "concept": "water ouzel, dipper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\681.png",
+    "concept": "gazelle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\682.png",
+    "concept": "centipede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\683.png",
+    "concept": "red-backed sandpiper, dunlin, Erolia alpina"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\684.png",
+    "concept": "beaker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\685.png",
+    "concept": "Irish setter, red setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\686.png",
+    "concept": "tiger beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\687.png",
+    "concept": "cricket"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\688.png",
+    "concept": "muzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\689.png",
+    "concept": "polecat, fitch, foulmart, foumart, Mustela putorius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\690.png",
+    "concept": "goose"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\691.png",
+    "concept": "West Highland white terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\692.png",
+    "concept": "hognose snake, puff adder, sand viper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\693.png",
+    "concept": "sea urchin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\694.png",
+    "concept": "candle, taper, wax light"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\695.png",
+    "concept": "sea anemone, anemone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\696.png",
+    "concept": "oil filter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\697.png",
+    "concept": "CD player"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\698.png",
+    "concept": "Polaroid camera, Polaroid Land camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\699.png",
+    "concept": "kuvasz"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\700.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\701.png",
+    "concept": "canoe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\702.png",
+    "concept": "hare"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\703.png",
+    "concept": "bulbul"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\704.png",
+    "concept": "radio telescope, radio reflector"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\705.png",
+    "concept": "moped"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\706.png",
+    "concept": "earthstar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\707.png",
+    "concept": "parking meter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\708.png",
+    "concept": "frying pan, frypan, skillet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\709.png",
+    "concept": "guillotine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\710.png",
+    "concept": "speedboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\711.png",
+    "concept": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\712.png",
+    "concept": "lacewing, lacewing fly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\713.png",
+    "concept": "African chameleon, Chamaeleo chamaeleon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\714.png",
+    "concept": "vending machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\715.png",
+    "concept": "Norfolk terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\716.png",
+    "concept": "breastplate, aegis, egis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\717.png",
+    "concept": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\718.png",
+    "concept": "picket fence, paling"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\719.png",
+    "concept": "tiger shark, Galeocerdo cuvieri"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\720.png",
+    "concept": "horse cart, horse-cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\721.png",
+    "concept": "leafhopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\722.png",
+    "concept": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\723.png",
+    "concept": "golfcart, golf cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\724.png",
+    "concept": "black widow, Latrodectus mactans"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\725.png",
+    "concept": "Sealyham terrier, Sealyham"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\726.png",
+    "concept": "dingo, warrigal, warragal, Canis dingo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\727.png",
+    "concept": "beer bottle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\728.png",
+    "concept": "macaw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\729.png",
+    "concept": "saltshaker, salt shaker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\730.png",
+    "concept": "Afghan hound, Afghan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\731.png",
+    "concept": "horizontal bar, high bar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\732.png",
+    "concept": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\733.png",
+    "concept": "Granny Smith"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\734.png",
+    "concept": "conch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\735.png",
+    "concept": "tiger beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\736.png",
+    "concept": "tiger shark, Galeocerdo cuvieri"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\737.png",
+    "concept": "agaric"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\738.png",
+    "concept": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\739.png",
+    "concept": "vizsla, Hungarian pointer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\740.png",
+    "concept": "stone wall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\741.png",
+    "concept": "jigsaw puzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\742.png",
+    "concept": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\743.png",
+    "concept": "street sign"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\744.png",
+    "concept": "Pomeranian"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\745.png",
+    "concept": "long-horned beetle, longicorn, longicorn beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\746.png",
+    "concept": "lab coat, laboratory coat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\747.png",
+    "concept": "disk brake, disc brake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\748.png",
+    "concept": "speedboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\749.png",
+    "concept": "remote control, remote"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\750.png",
+    "concept": "echidna, spiny anteater, anteater"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\751.png",
+    "concept": "thresher, thrasher, threshing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\752.png",
+    "concept": "electric locomotive"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\753.png",
+    "concept": "stinkhorn, carrion fungus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\754.png",
+    "concept": "packet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\755.png",
+    "concept": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\756.png",
+    "concept": "cocktail shaker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\757.png",
+    "concept": "ocarina, sweet potato"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\758.png",
+    "concept": "ram, tup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\759.png",
+    "concept": "streetcar, tram, tramcar, trolley, trolley car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\760.png",
+    "concept": "broccoli"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\761.png",
+    "concept": "hot pot, hotpot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\762.png",
+    "concept": "wire-haired fox terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\763.png",
+    "concept": "leafhopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\764.png",
+    "concept": "can opener, tin opener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\765.png",
+    "concept": "cliff, drop, drop-off"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\766.png",
+    "concept": "Newfoundland, Newfoundland dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\767.png",
+    "concept": "West Highland white terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\768.png",
+    "concept": "liner, ocean liner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\769.png",
+    "concept": "common newt, Triturus vulgaris"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\770.png",
+    "concept": "wool, woolen, woollen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\771.png",
+    "concept": "orange"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\772.png",
+    "concept": "redbone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\773.png",
+    "concept": "skunk, polecat, wood pussy"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\774.png",
+    "concept": "drilling platform, offshore rig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\775.png",
+    "concept": "volleyball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\776.png",
+    "concept": "walking stick, walkingstick, stick insect"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\777.png",
+    "concept": "wardrobe, closet, press"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\778.png",
+    "concept": "gas pump, gasoline pump, petrol pump, island dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\779.png",
+    "concept": "croquet ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\780.png",
+    "concept": "wall clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\781.png",
+    "concept": "curly-coated retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\782.png",
+    "concept": "coffeepot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\783.png",
+    "concept": "chiffonier, commode"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\784.png",
+    "concept": "guillotine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\785.png",
+    "concept": "quill, quill pen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\786.png",
+    "concept": "suit, suit of clothes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\787.png",
+    "concept": "Pekinese, Pekingese, Peke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\788.png",
+    "concept": "pineapple, ananas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\789.png",
+    "concept": "Arabian camel, dromedary, Camelus dromedarius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\790.png",
+    "concept": "perfume, essence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\791.png",
+    "concept": "warthog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\792.png",
+    "concept": "soccer ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\793.png",
+    "concept": "cairn, cairn terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\794.png",
+    "concept": "barrel, cask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\795.png",
+    "concept": "Pekinese, Pekingese, Peke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\796.png",
+    "concept": "stove"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\797.png",
+    "concept": "triumphal arch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\798.png",
+    "concept": "can opener, tin opener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\799.png",
+    "concept": "wombat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\800.png",
+    "concept": "bookshop, bookstore, bookstall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\801.png",
+    "concept": "maze, labyrinth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\802.png",
+    "concept": "Afghan hound, Afghan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\803.png",
+    "concept": "refrigerator, icebox"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\804.png",
+    "concept": "dalmatian, coach dog, carriage dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\805.png",
+    "concept": "bluetick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\806.png",
+    "concept": "ocarina, sweet potato"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\807.png",
+    "concept": "Irish terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\808.png",
+    "concept": "horse cart, horse-cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\809.png",
+    "concept": "American coot, marsh hen, mud hen, water hen, Fulica americana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\810.png",
+    "concept": "ski"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\811.png",
+    "concept": "shower cap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\812.png",
+    "concept": "croquet ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\813.png",
+    "concept": "jeep, landrover"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\814.png",
+    "concept": "artichoke, globe artichoke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\815.png",
+    "concept": "potter's wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\816.png",
+    "concept": "quilt, comforter, comfort, puff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\817.png",
+    "concept": "dock, dockage, docking facility"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\818.png",
+    "concept": "pizza, pizza pie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\819.png",
+    "concept": "go-kart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\820.png",
+    "concept": "maillot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\821.png",
+    "concept": "barbell"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\822.png",
+    "concept": "racer, race car, racing car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\823.png",
+    "concept": "Band Aid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\824.png",
+    "concept": "sock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\825.png",
+    "concept": "oil filter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\826.png",
+    "concept": "grasshopper, hopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\827.png",
+    "concept": "briard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\828.png",
+    "concept": "lion, king of beasts, Panthera leo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\829.png",
+    "concept": "soap dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\830.png",
+    "concept": "drumstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\831.png",
+    "concept": "mud turtle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\832.png",
+    "concept": "mortarboard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\833.png",
+    "concept": "horse cart, horse-cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\834.png",
+    "concept": "geyser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\835.png",
+    "concept": "mouse, computer mouse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\836.png",
+    "concept": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\837.png",
+    "concept": "water snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\838.png",
+    "concept": "academic gown, academic robe, judge's robe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\839.png",
+    "concept": "geyser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\840.png",
+    "concept": "Irish setter, red setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\841.png",
+    "concept": "window screen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\842.png",
+    "concept": "rain barrel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\843.png",
+    "concept": "polecat, fitch, foulmart, foumart, Mustela putorius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\844.png",
+    "concept": "ground beetle, carabid beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\845.png",
+    "concept": "lynx, catamount"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\846.png",
+    "concept": "projectile, missile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\847.png",
+    "concept": "table lamp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\848.png",
+    "concept": "wardrobe, closet, press"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\849.png",
+    "concept": "radio telescope, radio reflector"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\850.png",
+    "concept": "goblet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\851.png",
+    "concept": "steel drum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\852.png",
+    "concept": "hourglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\853.png",
+    "concept": "bonnet, poke bonnet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\854.png",
+    "concept": "nipple"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\855.png",
+    "concept": "yurt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\856.png",
+    "concept": "snail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\857.png",
+    "concept": "horizontal bar, high bar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\858.png",
+    "concept": "tobacco shop, tobacconist shop, tobacconist"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\859.png",
+    "concept": "ocarina, sweet potato"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\860.png",
+    "concept": "anemone fish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\861.png",
+    "concept": "beer glass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\862.png",
+    "concept": "kite"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\863.png",
+    "concept": "soup bowl"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\864.png",
+    "concept": "Pembroke, Pembroke Welsh corgi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\865.png",
+    "concept": "ballplayer, baseball player"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\866.png",
+    "concept": "library"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\867.png",
+    "concept": "miniature poodle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\868.png",
+    "concept": "swing"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\869.png",
+    "concept": "guenon, guenon monkey"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\870.png",
+    "concept": "folding chair"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\871.png",
+    "concept": "brain coral"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\872.png",
+    "concept": "Sealyham terrier, Sealyham"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\873.png",
+    "concept": "loupe, jeweler's loupe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\874.png",
+    "concept": "theater curtain, theatre curtain"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\875.png",
+    "concept": "Polaroid camera, Polaroid Land camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\876.png",
+    "concept": "entertainment center"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\877.png",
+    "concept": "rock beauty, Holocanthus tricolor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\878.png",
+    "concept": "gazelle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\879.png",
+    "concept": "mitten"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\880.png",
+    "concept": "cucumber, cuke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\881.png",
+    "concept": "birdhouse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\882.png",
+    "concept": "rock crab, Cancer irroratus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\883.png",
+    "concept": "Tibetan terrier, chrysanthemum dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\884.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\885.png",
+    "concept": "sea anemone, anemone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\886.png",
+    "concept": "pedestal, plinth, footstall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\887.png",
+    "concept": "stopwatch, stop watch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\888.png",
+    "concept": "pillow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\889.png",
+    "concept": "agama"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\890.png",
+    "concept": "sax, saxophone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\891.png",
+    "concept": "wardrobe, closet, press"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\892.png",
+    "concept": "microphone, mike"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\893.png",
+    "concept": "vault"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\894.png",
+    "concept": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\895.png",
+    "concept": "swing"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\896.png",
+    "concept": "valley, vale"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\897.png",
+    "concept": "Gordon setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\898.png",
+    "concept": "flat-coated retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\899.png",
+    "concept": "brain coral"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\900.png",
+    "concept": "beaver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\901.png",
+    "concept": "croquet ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\902.png",
+    "concept": "standard schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\903.png",
+    "concept": "agaric"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\904.png",
+    "concept": "parachute, chute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\905.png",
+    "concept": "Band Aid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\906.png",
+    "concept": "ambulance"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\907.png",
+    "concept": "lemon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\908.png",
+    "concept": "totem pole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\909.png",
+    "concept": "ice cream, icecream"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\910.png",
+    "concept": "binoculars, field glasses, opera glasses"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\911.png",
+    "concept": "matchstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\912.png",
+    "concept": "bull mastiff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\913.png",
+    "concept": "gong, tam-tam"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\914.png",
+    "concept": "mantis, mantid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\915.png",
+    "concept": "confectionery, confectionary, candy store"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\916.png",
+    "concept": "hand-held computer, hand-held microcomputer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\917.png",
+    "concept": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\918.png",
+    "concept": "mousetrap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\919.png",
+    "concept": "fig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\920.png",
+    "concept": "agaric"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\921.png",
+    "concept": "king snake, kingsnake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\922.png",
+    "concept": "American alligator, Alligator mississipiensis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\923.png",
+    "concept": "drumstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\924.png",
+    "concept": "macaque"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\925.png",
+    "concept": "Sussex spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\926.png",
+    "concept": "water jug"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\927.png",
+    "concept": "standard poodle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\928.png",
+    "concept": "vine snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\929.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\930.png",
+    "concept": "sax, saxophone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\931.png",
+    "concept": "Kerry blue terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\932.png",
+    "concept": "red wolf, maned wolf, Canis rufus, Canis niger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\933.png",
+    "concept": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\934.png",
+    "concept": "Tibetan mastiff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\935.png",
+    "concept": "Shih-Tzu"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\936.png",
+    "concept": "crane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\937.png",
+    "concept": "bib"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\938.png",
+    "concept": "water ouzel, dipper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\939.png",
+    "concept": "orange"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\940.png",
+    "concept": "crane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\941.png",
+    "concept": "plunger, plumber's helper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\942.png",
+    "concept": "leaf beetle, chrysomelid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\943.png",
+    "concept": "schooner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\944.png",
+    "concept": "sleeping bag"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\945.png",
+    "concept": "mousetrap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\946.png",
+    "concept": "horse cart, horse-cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\947.png",
+    "concept": "affenpinscher, monkey pinscher, monkey dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\948.png",
+    "concept": "lifeboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\949.png",
+    "concept": "Pembroke, Pembroke Welsh corgi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\950.png",
+    "concept": "robin, American robin, Turdus migratorius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\951.png",
+    "concept": "abaya"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\952.png",
+    "concept": "dough"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\953.png",
+    "concept": "broom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\954.png",
+    "concept": "combination lock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\955.png",
+    "concept": "chimpanzee, chimp, Pan troglodytes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\956.png",
+    "concept": "box turtle, box tortoise"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\957.png",
+    "concept": "tusker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\958.png",
+    "concept": "geyser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\959.png",
+    "concept": "muzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\960.png",
+    "concept": "worm fence, snake fence, snake-rail fence, Virginia fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\961.png",
+    "concept": "acorn"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\962.png",
+    "concept": "hair spray"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\963.png",
+    "concept": "CD player"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\964.png",
+    "concept": "balance beam, beam"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\965.png",
+    "concept": "dishrag, dishcloth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\966.png",
+    "concept": "pencil box, pencil case"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\967.png",
+    "concept": "Brabancon griffon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\968.png",
+    "concept": "harvester, reaper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\969.png",
+    "concept": "Boston bull, Boston terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\970.png",
+    "concept": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\971.png",
+    "concept": "proboscis monkey, Nasalis larvatus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\972.png",
+    "concept": "promontory, headland, head, foreland"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\973.png",
+    "concept": "trench coat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\974.png",
+    "concept": "Gordon setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\975.png",
+    "concept": "vacuum, vacuum cleaner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\976.png",
+    "concept": "vacuum, vacuum cleaner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\977.png",
+    "concept": "cheetah, chetah, Acinonyx jubatus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\978.png",
+    "concept": "speedboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\979.png",
+    "concept": "carousel, carrousel, merry-go-round, roundabout, whirligig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\980.png",
+    "concept": "packet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\981.png",
+    "concept": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\982.png",
+    "concept": "Crock Pot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\983.png",
+    "concept": "cocker spaniel, English cocker spaniel, cocker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\984.png",
+    "concept": "bucket, pail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\985.png",
+    "concept": "tiger cat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\986.png",
+    "concept": "whippet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\987.png",
+    "concept": "coffee mug"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\988.png",
+    "concept": "turnstile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\989.png",
+    "concept": "head cabbage"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\990.png",
+    "concept": "toucan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\991.png",
+    "concept": "EntleBucher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\992.png",
+    "concept": "cabbage butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\993.png",
+    "concept": "loggerhead, loggerhead turtle, Caretta caretta"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\994.png",
+    "concept": "anemone fish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\995.png",
+    "concept": "pelican"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\996.png",
+    "concept": "wreck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\997.png",
+    "concept": "safety pin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\998.png",
+    "concept": "warplane, military plane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\999.png",
+    "concept": "shoji"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1000.png",
+    "concept": "starfish, sea star"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1001.png",
+    "concept": "microwave, microwave oven"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1002.png",
+    "concept": "binder, ring-binder"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1003.png",
+    "concept": "tripod"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1004.png",
+    "concept": "unicycle, monocycle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1005.png",
+    "concept": "feather boa, boa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1006.png",
+    "concept": "tiger cat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1007.png",
+    "concept": "sea snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1008.png",
+    "concept": "table lamp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1009.png",
+    "concept": "tick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1010.png",
+    "concept": "polecat, fitch, foulmart, foumart, Mustela putorius"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1011.png",
+    "concept": "Siamese cat, Siamese"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1012.png",
+    "concept": "valley, vale"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1013.png",
+    "concept": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1014.png",
+    "concept": "hair spray"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1015.png",
+    "concept": "space heater"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1016.png",
+    "concept": "Egyptian cat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1017.png",
+    "concept": "steel drum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1018.png",
+    "concept": "brambling, Fringilla montifringilla"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1019.png",
+    "concept": "racket, racquet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1020.png",
+    "concept": "long-horned beetle, longicorn, longicorn beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1021.png",
+    "concept": "flatworm, platyhelminth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1022.png",
+    "concept": "paper towel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1023.png",
+    "concept": "mantis, mantid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1024.png",
+    "concept": "maze, labyrinth"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1025.png",
+    "concept": "Angora, Angora rabbit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1026.png",
+    "concept": "hip, rose hip, rosehip"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1027.png",
+    "concept": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1028.png",
+    "concept": "muzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1029.png",
+    "concept": "kelpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1030.png",
+    "concept": "streetcar, tram, tramcar, trolley, trolley car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1031.png",
+    "concept": "odometer, hodometer, mileometer, milometer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1032.png",
+    "concept": "cassette"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1033.png",
+    "concept": "scorpion"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1034.png",
+    "concept": "Polaroid camera, Polaroid Land camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1035.png",
+    "concept": "African crocodile, Nile crocodile, Crocodylus niloticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1036.png",
+    "concept": "handkerchief, hankie, hanky, hankey"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1037.png",
+    "concept": "tape player"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1038.png",
+    "concept": "dome"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1039.png",
+    "concept": "ballpoint, ballpoint pen, ballpen, Biro"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1040.png",
+    "concept": "gas pump, gasoline pump, petrol pump, island dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1041.png",
+    "concept": "cowboy hat, ten-gallon hat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1042.png",
+    "concept": "ptarmigan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1043.png",
+    "concept": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1044.png",
+    "concept": "briard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1045.png",
+    "concept": "apron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1046.png",
+    "concept": "turnstile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1047.png",
+    "concept": "ice lolly, lolly, lollipop, popsicle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1048.png",
+    "concept": "pot, flowerpot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1049.png",
+    "concept": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1050.png",
+    "concept": "Italian greyhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1051.png",
+    "concept": "tub, vat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1052.png",
+    "concept": "buckeye, horse chestnut, conker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1053.png",
+    "concept": "ski"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1054.png",
+    "concept": "broccoli"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1055.png",
+    "concept": "spoonbill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1056.png",
+    "concept": "plunger, plumber's helper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1057.png",
+    "concept": "running shoe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1058.png",
+    "concept": "trolleybus, trolley coach, trackless trolley"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1059.png",
+    "concept": "castle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1060.png",
+    "concept": "microwave, microwave oven"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1061.png",
+    "concept": "tiger beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1062.png",
+    "concept": "bald eagle, American eagle, Haliaeetus leucocephalus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1063.png",
+    "concept": "cinema, movie theater, movie theatre, movie house, picture palace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1064.png",
+    "concept": "stupa, tope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1065.png",
+    "concept": "Greater Swiss Mountain dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1066.png",
+    "concept": "wall clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1067.png",
+    "concept": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1068.png",
+    "concept": "Bedlington terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1069.png",
+    "concept": "centipede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1070.png",
+    "concept": "cocktail shaker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1071.png",
+    "concept": "Bernese mountain dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1072.png",
+    "concept": "comic book"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1073.png",
+    "concept": "can opener, tin opener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1074.png",
+    "concept": "sewing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1075.png",
+    "concept": "wallaby, brush kangaroo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1076.png",
+    "concept": "brown bear, bruin, Ursus arctos"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1077.png",
+    "concept": "ant, emmet, pismire"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1078.png",
+    "concept": "totem pole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1079.png",
+    "concept": "fig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1080.png",
+    "concept": "badger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1081.png",
+    "concept": "Scottish deerhound, deerhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1082.png",
+    "concept": "academic gown, academic robe, judge's robe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1083.png",
+    "concept": "butternut squash"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1084.png",
+    "concept": "ostrich, Struthio camelus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1085.png",
+    "concept": "Loafer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1086.png",
+    "concept": "cello, violoncello"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1087.png",
+    "concept": "garbage truck, dustcart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1088.png",
+    "concept": "feather boa, boa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1089.png",
+    "concept": "cab, hack, taxi, taxicab"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1090.png",
+    "concept": "snowmobile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1091.png",
+    "concept": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1092.png",
+    "concept": "magpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1093.png",
+    "concept": "orangutan, orang, orangutang, Pongo pygmaeus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1094.png",
+    "concept": "ringneck snake, ring-necked snake, ring snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1095.png",
+    "concept": "mask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1096.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1097.png",
+    "concept": "nipple"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1098.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1099.png",
+    "concept": "snowplow, snowplough"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1100.png",
+    "concept": "mantis, mantid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1101.png",
+    "concept": "modem"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1102.png",
+    "concept": "laptop, laptop computer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1103.png",
+    "concept": "miniature pinscher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1104.png",
+    "concept": "reflex camera"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1105.png",
+    "concept": "mobile home, manufactured home"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1106.png",
+    "concept": "magpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1107.png",
+    "concept": "bubble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1108.png",
+    "concept": "red-breasted merganser, Mergus serrator"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1109.png",
+    "concept": "black stork, Ciconia nigra"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1110.png",
+    "concept": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1111.png",
+    "concept": "dugong, Dugong dugon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1112.png",
+    "concept": "maraca"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1113.png",
+    "concept": "menu"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1114.png",
+    "concept": "diamondback, diamondback rattlesnake, Crotalus adamanteus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1115.png",
+    "concept": "screen, CRT screen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1116.png",
+    "concept": "analog clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1117.png",
+    "concept": "marmoset"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1118.png",
+    "concept": "church, church building"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1119.png",
+    "concept": "shower curtain"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1120.png",
+    "concept": "snowmobile"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1121.png",
+    "concept": "wolf spider, hunting spider"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1122.png",
+    "concept": "mitten"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1123.png",
+    "concept": "African crocodile, Nile crocodile, Crocodylus niloticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1124.png",
+    "concept": "passenger car, coach, carriage"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1125.png",
+    "concept": "Pekinese, Pekingese, Peke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1126.png",
+    "concept": "ringlet, ringlet butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1127.png",
+    "concept": "purse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1128.png",
+    "concept": "dough"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1129.png",
+    "concept": "dishwasher, dish washer, dishwashing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1130.png",
+    "concept": "hornbill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1131.png",
+    "concept": "ruffed grouse, partridge, Bonasa umbellus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1132.png",
+    "concept": "bobsled, bobsleigh, bob"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1133.png",
+    "concept": "brain coral"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1134.png",
+    "concept": "white stork, Ciconia ciconia"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1135.png",
+    "concept": "frilled lizard, Chlamydosaurus kingi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1136.png",
+    "concept": "folding chair"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1137.png",
+    "concept": "porcupine, hedgehog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1138.png",
+    "concept": "stage"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1139.png",
+    "concept": "wallaby, brush kangaroo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1140.png",
+    "concept": "toyshop"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1141.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1142.png",
+    "concept": "racer, race car, racing car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1143.png",
+    "concept": "thatch, thatched roof"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1144.png",
+    "concept": "forklift"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1145.png",
+    "concept": "mobile home, manufactured home"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1146.png",
+    "concept": "shopping cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1147.png",
+    "concept": "garter snake, grass snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1148.png",
+    "concept": "liner, ocean liner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1149.png",
+    "concept": "library"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1150.png",
+    "concept": "jean, blue jean, denim"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1151.png",
+    "concept": "oystercatcher, oyster catcher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1152.png",
+    "concept": "cliff dwelling"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1153.png",
+    "concept": "cocktail shaker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1154.png",
+    "concept": "nail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1155.png",
+    "concept": "Norfolk terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1156.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1157.png",
+    "concept": "bolete"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1158.png",
+    "concept": "cinema, movie theater, movie theatre, movie house, picture palace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1159.png",
+    "concept": "Shetland sheepdog, Shetland sheep dog, Shetland"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1160.png",
+    "concept": "minibus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1161.png",
+    "concept": "streetcar, tram, tramcar, trolley, trolley car"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1162.png",
+    "concept": "hip, rose hip, rosehip"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1163.png",
+    "concept": "prayer rug, prayer mat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1164.png",
+    "concept": "miniature schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1165.png",
+    "concept": "Cardigan, Cardigan Welsh corgi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1166.png",
+    "concept": "hyena, hyaena"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1167.png",
+    "concept": "rock python, rock snake, Python sebae"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1168.png",
+    "concept": "African elephant, Loxodonta africana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1169.png",
+    "concept": "miniskirt, mini"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1170.png",
+    "concept": "coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1171.png",
+    "concept": "cradle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1172.png",
+    "concept": "bell pepper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1173.png",
+    "concept": "spotted salamander, Ambystoma maculatum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1174.png",
+    "concept": "grocery store, grocery, food market, market"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1175.png",
+    "concept": "cannon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1176.png",
+    "concept": "cup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1177.png",
+    "concept": "terrapin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1178.png",
+    "concept": "potter's wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1179.png",
+    "concept": "shovel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1180.png",
+    "concept": "measuring cup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1181.png",
+    "concept": "scorpion"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1182.png",
+    "concept": "jay"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1183.png",
+    "concept": "colobus, colobus monkey"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1184.png",
+    "concept": "barbershop"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1185.png",
+    "concept": "borzoi, Russian wolfhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1186.png",
+    "concept": "car wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1187.png",
+    "concept": "Siamese cat, Siamese"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1188.png",
+    "concept": "golf ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1189.png",
+    "concept": "common iguana, iguana, Iguana iguana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1190.png",
+    "concept": "black-and-tan coonhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1191.png",
+    "concept": "rock beauty, Holocanthus tricolor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1192.png",
+    "concept": "worm fence, snake fence, snake-rail fence, Virginia fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1193.png",
+    "concept": "organ, pipe organ"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1194.png",
+    "concept": "chow, chow chow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1195.png",
+    "concept": "soccer ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1196.png",
+    "concept": "crib, cot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1197.png",
+    "concept": "impala, Aepyceros melampus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1198.png",
+    "concept": "Siamese cat, Siamese"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1199.png",
+    "concept": "groom, bridegroom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1200.png",
+    "concept": "hair slide"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1201.png",
+    "concept": "dingo, warrigal, warragal, Canis dingo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1202.png",
+    "concept": "snow leopard, ounce, Panthera uncia"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1203.png",
+    "concept": "magnetic compass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1204.png",
+    "concept": "sandbar, sand bar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1205.png",
+    "concept": "sunglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1206.png",
+    "concept": "alligator lizard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1207.png",
+    "concept": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1208.png",
+    "concept": "electric ray, crampfish, numbfish, torpedo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1209.png",
+    "concept": "crate"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1210.png",
+    "concept": "shield, buckler"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1211.png",
+    "concept": "trifle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1212.png",
+    "concept": "black widow, Latrodectus mactans"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1213.png",
+    "concept": "wall clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1214.png",
+    "concept": "ostrich, Struthio camelus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1215.png",
+    "concept": "fur coat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1216.png",
+    "concept": "cicada, cicala"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1217.png",
+    "concept": "miniature pinscher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1218.png",
+    "concept": "porcupine, hedgehog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1219.png",
+    "concept": "fountain pen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1220.png",
+    "concept": "sewing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1221.png",
+    "concept": "mailbag, postbag"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1222.png",
+    "concept": "gas pump, gasoline pump, petrol pump, island dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1223.png",
+    "concept": "beaver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1224.png",
+    "concept": "sidewinder, horned rattlesnake, Crotalus cerastes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1225.png",
+    "concept": "Windsor tie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1226.png",
+    "concept": "hand blower, blow dryer, blow drier, hair dryer, hair drier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1227.png",
+    "concept": "green snake, grass snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1228.png",
+    "concept": "schipperke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1229.png",
+    "concept": "scoreboard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1230.png",
+    "concept": "prayer rug, prayer mat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1231.png",
+    "concept": "screen, CRT screen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1232.png",
+    "concept": "jigsaw puzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1233.png",
+    "concept": "bucket, pail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1234.png",
+    "concept": "running shoe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1235.png",
+    "concept": "ruddy turnstone, Arenaria interpres"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1236.png",
+    "concept": "minibus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1237.png",
+    "concept": "go-kart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1238.png",
+    "concept": "Brabancon griffon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1239.png",
+    "concept": "Tibetan mastiff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1240.png",
+    "concept": "African chameleon, Chamaeleo chamaeleon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1241.png",
+    "concept": "espresso"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1242.png",
+    "concept": "cowboy hat, ten-gallon hat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1243.png",
+    "concept": "ballpoint, ballpoint pen, ballpen, Biro"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1244.png",
+    "concept": "drake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1245.png",
+    "concept": "baseball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1246.png",
+    "concept": "plate"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1247.png",
+    "concept": "plastic bag"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1248.png",
+    "concept": "bath towel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1249.png",
+    "concept": "flute, transverse flute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1250.png",
+    "concept": "worm fence, snake fence, snake-rail fence, Virginia fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1251.png",
+    "concept": "Indian elephant, Elephas maximus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1252.png",
+    "concept": "dam, dike, dyke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1253.png",
+    "concept": "sunglasses, dark glasses, shades"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1254.png",
+    "concept": "shovel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1255.png",
+    "concept": "Granny Smith"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1256.png",
+    "concept": "dowitcher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1257.png",
+    "concept": "gyromitra"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1258.png",
+    "concept": "amphibian, amphibious vehicle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1259.png",
+    "concept": "knee pad"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1260.png",
+    "concept": "quail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1261.png",
+    "concept": "brassiere, bra, bandeau"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1262.png",
+    "concept": "alp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1263.png",
+    "concept": "fire screen, fireguard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1264.png",
+    "concept": "maillot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1265.png",
+    "concept": "fiddler crab"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1266.png",
+    "concept": "tub, vat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1267.png",
+    "concept": "hourglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1268.png",
+    "concept": "bookcase"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1269.png",
+    "concept": "digital watch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1270.png",
+    "concept": "barn spider, Araneus cavaticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1271.png",
+    "concept": "conch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1272.png",
+    "concept": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1273.png",
+    "concept": "hard disc, hard disk, fixed disk"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1274.png",
+    "concept": "sliding door"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1275.png",
+    "concept": "chainlink fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1276.png",
+    "concept": "lipstick, lip rouge"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1277.png",
+    "concept": "red fox, Vulpes vulpes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1278.png",
+    "concept": "indigo bunting, indigo finch, indigo bird, Passerina cyanea"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1279.png",
+    "concept": "quail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1280.png",
+    "concept": "jellyfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1281.png",
+    "concept": "fiddler crab"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1282.png",
+    "concept": "Gila monster, Heloderma suspectum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1283.png",
+    "concept": "bow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1284.png",
+    "concept": "hotdog, hot dog, red hot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1285.png",
+    "concept": "torch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1286.png",
+    "concept": "bearskin, busby, shako"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1287.png",
+    "concept": "necklace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1288.png",
+    "concept": "trench coat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1289.png",
+    "concept": "tennis ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1290.png",
+    "concept": "mantis, mantid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1291.png",
+    "concept": "limpkin, Aramus pictus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1292.png",
+    "concept": "alligator lizard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1293.png",
+    "concept": "tiger shark, Galeocerdo cuvieri"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1294.png",
+    "concept": "black swan, Cygnus atratus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1295.png",
+    "concept": "chocolate sauce, chocolate syrup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1296.png",
+    "concept": "hummingbird"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1297.png",
+    "concept": "red-backed sandpiper, dunlin, Erolia alpina"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1298.png",
+    "concept": "chainlink fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1299.png",
+    "concept": "banded gecko"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1300.png",
+    "concept": "radio, wireless"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1301.png",
+    "concept": "sidewinder, horned rattlesnake, Crotalus cerastes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1302.png",
+    "concept": "malamute, malemute, Alaskan malamute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1303.png",
+    "concept": "sandal"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1304.png",
+    "concept": "three-toed sloth, ai, Bradypus tridactylus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1305.png",
+    "concept": "skunk, polecat, wood pussy"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1306.png",
+    "concept": "water ouzel, dipper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1307.png",
+    "concept": "eggnog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1308.png",
+    "concept": "folding chair"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1309.png",
+    "concept": "lifeboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1310.png",
+    "concept": "white stork, Ciconia ciconia"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1311.png",
+    "concept": "torch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1312.png",
+    "concept": "pencil sharpener"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1313.png",
+    "concept": "garbage truck, dustcart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1314.png",
+    "concept": "knot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1315.png",
+    "concept": "balance beam, beam"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1316.png",
+    "concept": "cucumber, cuke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1317.png",
+    "concept": "car wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1318.png",
+    "concept": "walking stick, walkingstick, stick insect"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1319.png",
+    "concept": "hourglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1320.png",
+    "concept": "drum, membranophone, tympan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1321.png",
+    "concept": "wall clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1322.png",
+    "concept": "isopod"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1323.png",
+    "concept": "guillotine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1324.png",
+    "concept": "chiton, coat-of-mail shell, sea cradle, polyplacophore"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1325.png",
+    "concept": "stone wall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1326.png",
+    "concept": "sea snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1327.png",
+    "concept": "ladle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1328.png",
+    "concept": "pelican"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1329.png",
+    "concept": "go-kart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1330.png",
+    "concept": "bullfrog, Rana catesbeiana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1331.png",
+    "concept": "schipperke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1332.png",
+    "concept": "Appenzeller"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1333.png",
+    "concept": "vase"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1334.png",
+    "concept": "torch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1335.png",
+    "concept": "Doberman, Doberman pinscher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1336.png",
+    "concept": "komondor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1337.png",
+    "concept": "Siberian husky"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1338.png",
+    "concept": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1339.png",
+    "concept": "candle, taper, wax light"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1340.png",
+    "concept": "hognose snake, puff adder, sand viper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1341.png",
+    "concept": "leaf beetle, chrysomelid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1342.png",
+    "concept": "geyser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1343.png",
+    "concept": "cleaver, meat cleaver, chopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1344.png",
+    "concept": "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1345.png",
+    "concept": "lemon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1346.png",
+    "concept": "bustard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1347.png",
+    "concept": "grand piano, grand"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1348.png",
+    "concept": "scuba diver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1349.png",
+    "concept": "terrapin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1350.png",
+    "concept": "cowboy boot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1351.png",
+    "concept": "black widow, Latrodectus mactans"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1352.png",
+    "concept": "breakwater, groin, groyne, mole, bulwark, seawall, jetty"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1353.png",
+    "concept": "car wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1354.png",
+    "concept": "envelope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1355.png",
+    "concept": "wild boar, boar, Sus scrofa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1356.png",
+    "concept": "cellular telephone, cellular phone, cellphone, cell, mobile phone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1357.png",
+    "concept": "book jacket, dust cover, dust jacket, dust wrapper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1358.png",
+    "concept": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1359.png",
+    "concept": "magnetic compass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1360.png",
+    "concept": "table lamp"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1361.png",
+    "concept": "toilet seat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1362.png",
+    "concept": "miniature schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1363.png",
+    "concept": "bulbul"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1364.png",
+    "concept": "red wine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1365.png",
+    "concept": "tractor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1366.png",
+    "concept": "eggnog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1367.png",
+    "concept": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1368.png",
+    "concept": "shopping cart"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1369.png",
+    "concept": "anemone fish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1370.png",
+    "concept": "hartebeest"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1371.png",
+    "concept": "cello, violoncello"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1372.png",
+    "concept": "iron, smoothing iron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1373.png",
+    "concept": "ice cream, icecream"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1374.png",
+    "concept": "cheeseburger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1375.png",
+    "concept": "neck brace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1376.png",
+    "concept": "sombrero"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1377.png",
+    "concept": "yurt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1378.png",
+    "concept": "window shade"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1379.png",
+    "concept": "muzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1380.png",
+    "concept": "toilet tissue, toilet paper, bathroom tissue"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1381.png",
+    "concept": "spaghetti squash"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1382.png",
+    "concept": "wood rabbit, cottontail, cottontail rabbit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1383.png",
+    "concept": "damselfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1384.png",
+    "concept": "triumphal arch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1385.png",
+    "concept": "golden retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1386.png",
+    "concept": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1387.png",
+    "concept": "paddlewheel, paddle wheel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1388.png",
+    "concept": "computer keyboard, keypad"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1389.png",
+    "concept": "mud turtle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1390.png",
+    "concept": "Indian elephant, Elephas maximus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1391.png",
+    "concept": "packet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1392.png",
+    "concept": "crate"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1393.png",
+    "concept": "goose"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1394.png",
+    "concept": "king penguin, Aptenodytes patagonica"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1395.png",
+    "concept": "altar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1396.png",
+    "concept": "hook, claw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1397.png",
+    "concept": "king snake, kingsnake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1398.png",
+    "concept": "strainer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1399.png",
+    "concept": "desktop computer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1400.png",
+    "concept": "recreational vehicle, RV, R.V."
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1401.png",
+    "concept": "sliding door"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1402.png",
+    "concept": "cloak"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1403.png",
+    "concept": "bannister, banister, balustrade, balusters, handrail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1404.png",
+    "concept": "Norwich terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1405.png",
+    "concept": "dugong, Dugong dugon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1406.png",
+    "concept": "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1407.png",
+    "concept": "mantis, mantid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1408.png",
+    "concept": "hand-held computer, hand-held microcomputer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1409.png",
+    "concept": "thunder snake, worm snake, Carphophis amoenus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1410.png",
+    "concept": "bathtub, bathing tub, bath, tub"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1411.png",
+    "concept": "pitcher, ewer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1412.png",
+    "concept": "pickup, pickup truck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1413.png",
+    "concept": "zucchini, courgette"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1414.png",
+    "concept": "soup bowl"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1415.png",
+    "concept": "bicycle-built-for-two, tandem bicycle, tandem"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1416.png",
+    "concept": "hammer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1417.png",
+    "concept": "gas pump, gasoline pump, petrol pump, island dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1418.png",
+    "concept": "Lakeland terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1419.png",
+    "concept": "canoe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1420.png",
+    "concept": "gasmask, respirator, gas helmet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1421.png",
+    "concept": "soccer ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1422.png",
+    "concept": "combination lock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1423.png",
+    "concept": "cleaver, meat cleaver, chopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1424.png",
+    "concept": "handkerchief, hankie, hanky, hankey"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1425.png",
+    "concept": "trimaran"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1426.png",
+    "concept": "breastplate, aegis, egis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1427.png",
+    "concept": "Pekinese, Pekingese, Peke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1428.png",
+    "concept": "lemon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1429.png",
+    "concept": "valley, vale"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1430.png",
+    "concept": "football helmet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1431.png",
+    "concept": "grey fox, gray fox, Urocyon cinereoargenteus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1432.png",
+    "concept": "wing"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1433.png",
+    "concept": "trolleybus, trolley coach, trackless trolley"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1434.png",
+    "concept": "broom"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1435.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1436.png",
+    "concept": "triumphal arch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1437.png",
+    "concept": "mongoose"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1438.png",
+    "concept": "beer glass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1439.png",
+    "concept": "cassette player"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1440.png",
+    "concept": "grey fox, gray fox, Urocyon cinereoargenteus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1441.png",
+    "concept": "soft-coated wheaten terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1442.png",
+    "concept": "volcano"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1443.png",
+    "concept": "safety pin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1444.png",
+    "concept": "boxer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1445.png",
+    "concept": "bubble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1446.png",
+    "concept": "knot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1447.png",
+    "concept": "stone wall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1448.png",
+    "concept": "ground beetle, carabid beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1449.png",
+    "concept": "caldron, cauldron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1450.png",
+    "concept": "chainlink fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1451.png",
+    "concept": "Boston bull, Boston terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1452.png",
+    "concept": "steel arch bridge"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1453.png",
+    "concept": "geyser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1454.png",
+    "concept": "ice cream, icecream"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1455.png",
+    "concept": "junco, snowbird"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1456.png",
+    "concept": "jack-o'-lantern"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1457.png",
+    "concept": "red fox, Vulpes vulpes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1458.png",
+    "concept": "house finch, linnet, Carpodacus mexicanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1459.png",
+    "concept": "brassiere, bra, bandeau"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1460.png",
+    "concept": "Great Pyrenees"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1461.png",
+    "concept": "starfish, sea star"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1462.png",
+    "concept": "flagpole, flagstaff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1463.png",
+    "concept": "analog clock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1464.png",
+    "concept": "bath towel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1465.png",
+    "concept": "African crocodile, Nile crocodile, Crocodylus niloticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1466.png",
+    "concept": "hand blower, blow dryer, blow drier, hair dryer, hair drier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1467.png",
+    "concept": "matchstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1468.png",
+    "concept": "pier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1469.png",
+    "concept": "worm fence, snake fence, snake-rail fence, Virginia fence"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1470.png",
+    "concept": "honeycomb"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1471.png",
+    "concept": "cornet, horn, trumpet, trump"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1472.png",
+    "concept": "European fire salamander, Salamandra salamandra"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1473.png",
+    "concept": "Boston bull, Boston terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1474.png",
+    "concept": "ringlet, ringlet butterfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1475.png",
+    "concept": "mashed potato"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1476.png",
+    "concept": "junco, snowbird"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1477.png",
+    "concept": "milk can"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1478.png",
+    "concept": "carpenter's kit, tool kit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1479.png",
+    "concept": "purse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1480.png",
+    "concept": "Appenzeller"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1481.png",
+    "concept": "ambulance"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1482.png",
+    "concept": "harvestman, daddy longlegs, Phalangium opilio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1483.png",
+    "concept": "rule, ruler"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1484.png",
+    "concept": "bonnet, poke bonnet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1485.png",
+    "concept": "wool, woolen, woollen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1486.png",
+    "concept": "indri, indris, Indri indri, Indri brevicaudatus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1487.png",
+    "concept": "gorilla, Gorilla gorilla"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1488.png",
+    "concept": "groenendael"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1489.png",
+    "concept": "Doberman, Doberman pinscher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1490.png",
+    "concept": "Band Aid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1491.png",
+    "concept": "car mirror"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1492.png",
+    "concept": "sunglass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1493.png",
+    "concept": "hyena, hyaena"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1494.png",
+    "concept": "plate"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1495.png",
+    "concept": "Labrador retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1496.png",
+    "concept": "kimono"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1497.png",
+    "concept": "thatch, thatched roof"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1498.png",
+    "concept": "safety pin"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1499.png",
+    "concept": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1500.png",
+    "concept": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1501.png",
+    "concept": "sleeping bag"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1502.png",
+    "concept": "crane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1503.png",
+    "concept": "snail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1504.png",
+    "concept": "hermit crab"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1505.png",
+    "concept": "carousel, carrousel, merry-go-round, roundabout, whirligig"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1506.png",
+    "concept": "sunglasses, dark glasses, shades"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1507.png",
+    "concept": "beaker"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1508.png",
+    "concept": "honeycomb"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1509.png",
+    "concept": "valley, vale"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1510.png",
+    "concept": "golf ball"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1511.png",
+    "concept": "toy terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1512.png",
+    "concept": "car mirror"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1513.png",
+    "concept": "sturgeon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1514.png",
+    "concept": "miniature schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1515.png",
+    "concept": "gas pump, gasoline pump, petrol pump, island dispenser"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1516.png",
+    "concept": "screen, CRT screen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1517.png",
+    "concept": "hognose snake, puff adder, sand viper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1518.png",
+    "concept": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1519.png",
+    "concept": "Model T"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1520.png",
+    "concept": "space heater"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1521.png",
+    "concept": "screwdriver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1522.png",
+    "concept": "seat belt, seatbelt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1523.png",
+    "concept": "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1524.png",
+    "concept": "rule, ruler"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1525.png",
+    "concept": "trolleybus, trolley coach, trackless trolley"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1526.png",
+    "concept": "bell cote, bell cot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1527.png",
+    "concept": "wooden spoon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1528.png",
+    "concept": "planetarium"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1529.png",
+    "concept": "balance beam, beam"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1530.png",
+    "concept": "tricycle, trike, velocipede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1531.png",
+    "concept": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1532.png",
+    "concept": "little blue heron, Egretta caerulea"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1533.png",
+    "concept": "American lobster, Northern lobster, Maine lobster, Homarus americanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1534.png",
+    "concept": "Tibetan mastiff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1535.png",
+    "concept": "folding chair"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1536.png",
+    "concept": "toy terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1537.png",
+    "concept": "padlock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1538.png",
+    "concept": "feather boa, boa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1539.png",
+    "concept": "tray"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1540.png",
+    "concept": "airship, dirigible"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1541.png",
+    "concept": "yawl"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1542.png",
+    "concept": "Indian cobra, Naja naja"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1543.png",
+    "concept": "ruddy turnstone, Arenaria interpres"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1544.png",
+    "concept": "patas, hussar monkey, Erythrocebus patas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1545.png",
+    "concept": "wombat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1546.png",
+    "concept": "walking stick, walkingstick, stick insect"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1547.png",
+    "concept": "television, television system"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1548.png",
+    "concept": "warplane, military plane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1549.png",
+    "concept": "bicycle-built-for-two, tandem bicycle, tandem"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1550.png",
+    "concept": "wine bottle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1551.png",
+    "concept": "cucumber, cuke"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1552.png",
+    "concept": "patas, hussar monkey, Erythrocebus patas"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1553.png",
+    "concept": "stole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1554.png",
+    "concept": "drake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1555.png",
+    "concept": "studio couch, day bed"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1556.png",
+    "concept": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1557.png",
+    "concept": "jellyfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1558.png",
+    "concept": "rifle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1559.png",
+    "concept": "dugong, Dugong dugon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1560.png",
+    "concept": "yurt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1561.png",
+    "concept": "unicycle, monocycle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1562.png",
+    "concept": "king snake, kingsnake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1563.png",
+    "concept": "Indian elephant, Elephas maximus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1564.png",
+    "concept": "fiddler crab"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1565.png",
+    "concept": "Ibizan hound, Ibizan Podenco"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1566.png",
+    "concept": "black and gold garden spider, Argiope aurantia"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1567.png",
+    "concept": "mouse, computer mouse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1568.png",
+    "concept": "microphone, mike"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1569.png",
+    "concept": "snowplow, snowplough"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1570.png",
+    "concept": "library"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1571.png",
+    "concept": "Great Dane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1572.png",
+    "concept": "moped"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1573.png",
+    "concept": "spoonbill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1574.png",
+    "concept": "canoe"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1575.png",
+    "concept": "house finch, linnet, Carpodacus mexicanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1576.png",
+    "concept": "mantis, mantid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1577.png",
+    "concept": "standard schnauzer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1578.png",
+    "concept": "altar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1579.png",
+    "concept": "African grey, African gray, Psittacus erithacus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1580.png",
+    "concept": "bustard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1581.png",
+    "concept": "sturgeon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1582.png",
+    "concept": "black-footed ferret, ferret, Mustela nigripes"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1583.png",
+    "concept": "tricycle, trike, velocipede"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1584.png",
+    "concept": "theater curtain, theatre curtain"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1585.png",
+    "concept": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1586.png",
+    "concept": "china cabinet, china closet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1587.png",
+    "concept": "shower cap"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1588.png",
+    "concept": "web site, website, internet site, site"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1589.png",
+    "concept": "restaurant, eating house, eating place, eatery"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1590.png",
+    "concept": "sea cucumber, holothurian"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1591.png",
+    "concept": "jellyfish"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1592.png",
+    "concept": "parachute, chute"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1593.png",
+    "concept": "great grey owl, great gray owl, Strix nebulosa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1594.png",
+    "concept": "bikini, two-piece"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1595.png",
+    "concept": "miniature poodle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1596.png",
+    "concept": "waffle iron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1597.png",
+    "concept": "red-breasted merganser, Mergus serrator"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1598.png",
+    "concept": "suspension bridge"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1599.png",
+    "concept": "squirrel monkey, Saimiri sciureus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1600.png",
+    "concept": "mortar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1601.png",
+    "concept": "redshank, Tringa totanus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1602.png",
+    "concept": "jean, blue jean, denim"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1603.png",
+    "concept": "toucan"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1604.png",
+    "concept": "mobile home, manufactured home"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1605.png",
+    "concept": "knee pad"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1606.png",
+    "concept": "scuba diver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1607.png",
+    "concept": "potpie"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1608.png",
+    "concept": "Indian elephant, Elephas maximus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1609.png",
+    "concept": "typewriter keyboard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1610.png",
+    "concept": "Norfolk terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1611.png",
+    "concept": "palace"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1612.png",
+    "concept": "thunder snake, worm snake, Carphophis amoenus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1613.png",
+    "concept": "cowboy hat, ten-gallon hat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1614.png",
+    "concept": "triceratops"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1615.png",
+    "concept": "jigsaw puzzle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1616.png",
+    "concept": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1617.png",
+    "concept": "space shuttle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1618.png",
+    "concept": "dial telephone, dial phone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1619.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1620.png",
+    "concept": "puck, hockey puck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1621.png",
+    "concept": "bow"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1622.png",
+    "concept": "French horn, horn"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1623.png",
+    "concept": "shoji"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1624.png",
+    "concept": "African crocodile, Nile crocodile, Crocodylus niloticus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1625.png",
+    "concept": "notebook, notebook computer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1626.png",
+    "concept": "bull mastiff"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1627.png",
+    "concept": "accordion, piano accordion, squeeze box"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1628.png",
+    "concept": "stethoscope"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1629.png",
+    "concept": "speedboat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1630.png",
+    "concept": "great grey owl, great gray owl, Strix nebulosa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1631.png",
+    "concept": "tray"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1632.png",
+    "concept": "pajama, pyjama, pj's, jammies"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1633.png",
+    "concept": "microwave, microwave oven"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1634.png",
+    "concept": "book jacket, dust cover, dust jacket, dust wrapper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1635.png",
+    "concept": "window screen"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1636.png",
+    "concept": "wreck"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1637.png",
+    "concept": "Walker hound, Walker foxhound"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1638.png",
+    "concept": "forklift"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1639.png",
+    "concept": "space heater"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1640.png",
+    "concept": "lumbermill, sawmill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1641.png",
+    "concept": "hook, claw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1642.png",
+    "concept": "pole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1643.png",
+    "concept": "plunger, plumber's helper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1644.png",
+    "concept": "liner, ocean liner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1645.png",
+    "concept": "Airedale, Airedale terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1646.png",
+    "concept": "motor scooter, scooter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1647.png",
+    "concept": "Chihuahua"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1648.png",
+    "concept": "binder, ring-binder"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1649.png",
+    "concept": "ox"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1650.png",
+    "concept": "ringneck snake, ring-necked snake, ring snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1651.png",
+    "concept": "timber wolf, grey wolf, gray wolf, Canis lupus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1652.png",
+    "concept": "plunger, plumber's helper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1653.png",
+    "concept": "sea lion"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1654.png",
+    "concept": "pug, pug-dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1655.png",
+    "concept": "eggnog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1656.png",
+    "concept": "face powder"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1657.png",
+    "concept": "stove"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1658.png",
+    "concept": "cellular telephone, cellular phone, cellphone, cell, mobile phone"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1659.png",
+    "concept": "plate rack"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1660.png",
+    "concept": "crane2"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1661.png",
+    "concept": "tiger shark, Galeocerdo cuvieri"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1662.png",
+    "concept": "jay"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1663.png",
+    "concept": "bagel, beigel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1664.png",
+    "concept": "beagle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1665.png",
+    "concept": "corkscrew, bottle screw"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1666.png",
+    "concept": "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1667.png",
+    "concept": "impala, Aepyceros melampus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1668.png",
+    "concept": "bookshop, bookstore, bookstall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1669.png",
+    "concept": "lighter, light, igniter, ignitor"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1670.png",
+    "concept": "Boston bull, Boston terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1671.png",
+    "concept": "damselfly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1672.png",
+    "concept": "pole"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1673.png",
+    "concept": "sturgeon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1674.png",
+    "concept": "basenji"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1675.png",
+    "concept": "schooner"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1676.png",
+    "concept": "clog, geta, patten, sabot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1677.png",
+    "concept": "toyshop"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1678.png",
+    "concept": "loggerhead, loggerhead turtle, Caretta caretta"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1679.png",
+    "concept": "goblet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1680.png",
+    "concept": "stone wall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1681.png",
+    "concept": "Lakeland terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1682.png",
+    "concept": "sock"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1683.png",
+    "concept": "European gallinule, Porphyrio porphyrio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1684.png",
+    "concept": "washer, automatic washer, washing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1685.png",
+    "concept": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1686.png",
+    "concept": "bolete"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1687.png",
+    "concept": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1688.png",
+    "concept": "mortar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1689.png",
+    "concept": "boxer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1690.png",
+    "concept": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1691.png",
+    "concept": "Christmas stocking"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1692.png",
+    "concept": "Labrador retriever"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1693.png",
+    "concept": "wok"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1694.png",
+    "concept": "submarine, pigboat, sub, U-boat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1695.png",
+    "concept": "acoustic guitar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1696.png",
+    "concept": "isopod"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1697.png",
+    "concept": "throne"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1698.png",
+    "concept": "laptop, laptop computer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1699.png",
+    "concept": "backpack, back pack, knapsack, packsack, rucksack, haversack"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1700.png",
+    "concept": "armadillo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1701.png",
+    "concept": "lorikeet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1702.png",
+    "concept": "beer glass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1703.png",
+    "concept": "kit fox, Vulpes macrotis"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1704.png",
+    "concept": "fly"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1705.png",
+    "concept": "ladle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1706.png",
+    "concept": "entertainment center"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1707.png",
+    "concept": "white wolf, Arctic wolf, Canis lupus tundrarum"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1708.png",
+    "concept": "Pembroke, Pembroke Welsh corgi"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1709.png",
+    "concept": "mouse, computer mouse"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1710.png",
+    "concept": "tobacco shop, tobacconist shop, tobacconist"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1711.png",
+    "concept": "pill bottle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1712.png",
+    "concept": "castle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1713.png",
+    "concept": "toaster"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1714.png",
+    "concept": "bison"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1715.png",
+    "concept": "racket, racquet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1716.png",
+    "concept": "wolf spider, hunting spider"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1717.png",
+    "concept": "red-breasted merganser, Mergus serrator"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1718.png",
+    "concept": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1719.png",
+    "concept": "radio, wireless"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1720.png",
+    "concept": "pop bottle, soda bottle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1721.png",
+    "concept": "strainer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1722.png",
+    "concept": "iPod"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1723.png",
+    "concept": "red-breasted merganser, Mergus serrator"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1724.png",
+    "concept": "forklift"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1725.png",
+    "concept": "sleeping bag"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1726.png",
+    "concept": "plow, plough"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1727.png",
+    "concept": "beaver"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1728.png",
+    "concept": "ballplayer, baseball player"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1729.png",
+    "concept": "Irish water spaniel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1730.png",
+    "concept": "crane"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1731.png",
+    "concept": "oystercatcher, oyster catcher"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1732.png",
+    "concept": "cuirass"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1733.png",
+    "concept": "thresher, thrasher, threshing machine"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1734.png",
+    "concept": "velvet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1735.png",
+    "concept": "limpkin, Aramus pictus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1736.png",
+    "concept": "remote control, remote"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1737.png",
+    "concept": "Lakeland terrier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1738.png",
+    "concept": "pug, pug-dog"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1739.png",
+    "concept": "drumstick"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1740.png",
+    "concept": "capuchin, ringtail, Cebus capucinus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1741.png",
+    "concept": "grasshopper, hopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1742.png",
+    "concept": "bath towel"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1743.png",
+    "concept": "apron"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1744.png",
+    "concept": "European gallinule, Porphyrio porphyrio"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1745.png",
+    "concept": "barrel, cask"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1746.png",
+    "concept": "pedestal, plinth, footstall"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1747.png",
+    "concept": "Saint Bernard, St Bernard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1748.png",
+    "concept": "bikini, two-piece"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1749.png",
+    "concept": "ladle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1750.png",
+    "concept": "Sealyham terrier, Sealyham"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1751.png",
+    "concept": "whippet"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1752.png",
+    "concept": "umbrella"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1753.png",
+    "concept": "cleaver, meat cleaver, chopper"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1754.png",
+    "concept": "umbrella"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1755.png",
+    "concept": "loggerhead, loggerhead turtle, Caretta caretta"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1756.png",
+    "concept": "bib"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1757.png",
+    "concept": "leaf beetle, chrysomelid"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1758.png",
+    "concept": "wood rabbit, cottontail, cottontail rabbit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1759.png",
+    "concept": "hamster"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1760.png",
+    "concept": "whiptail, whiptail lizard"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1761.png",
+    "concept": "microphone, mike"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1762.png",
+    "concept": "ram, tup"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1763.png",
+    "concept": "rhinoceros beetle"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1764.png",
+    "concept": "sturgeon"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1765.png",
+    "concept": "green mamba"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1766.png",
+    "concept": "green mamba"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1767.png",
+    "concept": "pier"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1768.png",
+    "concept": "half track"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1769.png",
+    "concept": "red wolf, maned wolf, Canis rufus, Canis niger"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1770.png",
+    "concept": "theater curtain, theatre curtain"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1771.png",
+    "concept": "garter snake, grass snake"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1772.png",
+    "concept": "spoonbill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1773.png",
+    "concept": "malinois"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1774.png",
+    "concept": "English setter"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1775.png",
+    "concept": "bullfrog, Rana catesbeiana"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1776.png",
+    "concept": "chickadee"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1777.png",
+    "concept": "hotdog, hot dog, red hot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1778.png",
+    "concept": "vizsla, Hungarian pointer"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1779.png",
+    "concept": "doormat, welcome mat"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1780.png",
+    "concept": "flamingo"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1781.png",
+    "concept": "seat belt, seatbelt"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1782.png",
+    "concept": "Shetland sheepdog, Shetland sheep dog, Shetland"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1783.png",
+    "concept": "bubble"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1784.png",
+    "concept": "pot, flowerpot"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1785.png",
+    "concept": "marmoset"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1786.png",
+    "concept": "stingray"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1787.png",
+    "concept": "plate rack"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1788.png",
+    "concept": "water jug"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1789.png",
+    "concept": "ibex, Capra ibex"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1790.png",
+    "concept": "bucket, pail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1791.png",
+    "concept": "carpenter's kit, tool kit"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1792.png",
+    "concept": "mortar"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1793.png",
+    "concept": "suspension bridge"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1794.png",
+    "concept": "black swan, Cygnus atratus"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1795.png",
+    "concept": "power drill"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1796.png",
+    "concept": "torch"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1797.png",
+    "concept": "passenger car, coach, carriage"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1798.png",
+    "concept": "snail"
+  },
+  {
+    "image_filename": "data/imagenet_1k\\1799.png",
+    "concept": "armadillo"
+  }
+]

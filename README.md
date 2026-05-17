@@ -10,6 +10,7 @@ This repository prepares the code and datasets for experiments on reducing the m
 | --- | --- |
 | `repos/SaferVLM` | UnsafeConcepts / Bridging-the-Gap codebase |
 | `repos/SaferVLM/data/UnsafeConcepts` | UnsafeConcepts metadata and 1567 images |
+| `repos/SaferVLM/data/imagenet_1k` | Safe concept data from `yiting/imagenet_1k_unique_class`, 1800 images |
 | `repos/JailBreakV_28K` | JailBreakV-28K codebase |
 | `repos/JailBreakV_28K/JailBreakV_28K` | Trimmed JailBreakV report subset |
 | `experiment_results_tracking.md` | Experiment result tracking document |
