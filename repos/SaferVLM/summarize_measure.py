@@ -25,6 +25,27 @@ VLM2NAMES = {"gpt-4v": "GPT-4V",
             "cogvlm-7b": "CogVLM",
             "qwen-7b": "Qwen2-VL"}
 
+def parse_names(model_names):
+    if model_names is None:
+        return ["llava-v1.5-7b"]
+    if isinstance(model_names, str):
+        if model_names == "all":
+            return VLMS
+        return [name.strip() for name in model_names.split(",") if name.strip()]
+    return list(model_names)
+
+def parse_indices(indices, total):
+    if indices is None or indices == "all":
+        return list(range(total))
+    if isinstance(indices, int):
+        return [indices]
+    if isinstance(indices, (list, tuple)):
+        return [int(idx) for idx in indices]
+    return [int(idx.strip()) for idx in str(indices).split(",") if idx.strip()]
+
+def normalize_path(path):
+    return path.replace("\\", "/")
+
 class SentimentClassifier(nn.Module):
     """Custom classifier using RoBERTa."""
     def __init__(self, model_name="roberta-base", num_labels=3):
@@ -92,7 +113,7 @@ def convert_output(outputs, tokenizer, model, batch_size=256):
         predictions.extend(prediction)
     return predictions
 
-def measure_perception(response_dir):
+def measure_perception(response_dir, model_names=None):
     
     # load dataset
     perception_dataset = PerceptionDataset(image_root="data/UnsafeConcepts")
@@ -111,10 +132,10 @@ def measure_perception(response_dir):
     
     result = pd.DataFrame([])
     # process responses   
-    for vlm in VLMS:
+    for vlm in parse_names(model_names):
         response_data = json.load(open(os.path.join(response_dir, vlm, f"perception/response_prompt_0.json"), "r"))
-        image2response = {item["image_fname"]: item.get("output") or "" for item in response_data}
-        responses = [image2response.get(os.path.join("images", f"{idx}.png"), "") for idx in range(len(labels))]  
+        image2response = {normalize_path(item["image_fname"]): item.get("output") or "" for item in response_data}
+        responses = [image2response.get(f"images/{idx}.png", "") for idx in range(len(labels))]  
         predictions = convert_output(responses, tokenizer, model)
         predictions = np.array(predictions)
         valid_indices = np.where(predictions != 4)[0]  # Exclude "N/A"
@@ -145,7 +166,7 @@ def measure_perception(response_dir):
     return result
 
 
-def measure_alignment(response_dir="data/VLM_responses"):
+def measure_alignment(response_dir="data/VLM_responses", model_names=None, prompt_indices="all"):
     
     # load dataset
     alignment_dataset = UnsafeConcepts()
@@ -156,7 +177,7 @@ def measure_alignment(response_dir="data/VLM_responses"):
     categories = [item[0] for item in alignment_dataset]
     
     # prompt indices
-    prompt_indices = range(5)
+    prompt_indices = parse_indices(prompt_indices, len(PROMPTS["alignment"]))
     
     # load response classifier
     tokenizer, model = load_alignment_classifier()
@@ -166,7 +187,7 @@ def measure_alignment(response_dir="data/VLM_responses"):
     
     result = pd.DataFrame([])
     # process responses
-    for vlm in VLMS:
+    for vlm in parse_names(model_names):
         predictions_all, labels_all, categories_all = [], [], []
         for prompt_idx in prompt_indices:
    
@@ -204,7 +225,7 @@ def measure_alignment(response_dir="data/VLM_responses"):
         result.loc[vlm, "Overall"] = overall_acc
     return result
 
-def measure_alignment_text_only(response_dir="data/VLM_responses"):
+def measure_alignment_text_only(response_dir="data/VLM_responses", model_names=None, prompt_indices="all"):
     
     # load dataset
     alignment_dataset = UnsafeConcepts()
@@ -217,7 +238,7 @@ def measure_alignment_text_only(response_dir="data/VLM_responses"):
     categories = [concepts2categories[concept] for concept in unsafe_concepts]
     
     # prompt indices
-    prompt_indices = range(5)
+    prompt_indices = parse_indices(prompt_indices, len(PROMPTS["alignment_text_only"]))
     
     # load response classifier
     tokenizer, model = load_alignment_classifier()
@@ -227,7 +248,7 @@ def measure_alignment_text_only(response_dir="data/VLM_responses"):
     
     result = pd.DataFrame([])
     # process responses
-    for vlm in VLMS:
+    for vlm in parse_names(model_names):
         predictions_all, labels_all, categories_all = [], [], []
         for prompt_idx in prompt_indices:
    
@@ -267,15 +288,17 @@ def measure_alignment_text_only(response_dir="data/VLM_responses"):
 
 def main(capability: str="perception",
         response_dir: str="data/VLM_responses",
-        save_dir: str="results"
+        save_dir: str="results",
+        model_names: str="llava-v1.5-7b",
+        prompt_indices: str="all"
          ):
     
     if capability == "perception":
-        result = measure_perception(response_dir)
+        result = measure_perception(response_dir, model_names=model_names)
     elif capability == "alignment":
-        result = measure_alignment(response_dir)
+        result = measure_alignment(response_dir, model_names=model_names, prompt_indices=prompt_indices)
     elif capability == "alignment_text_only":
-        result = measure_alignment_text_only(response_dir)
+        result = measure_alignment_text_only(response_dir, model_names=model_names, prompt_indices=prompt_indices)
     else:
         raise Exception("Wrong measure mode")
     
