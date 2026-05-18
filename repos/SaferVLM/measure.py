@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import json
 import fire
-from tqdm import tqdm
+from tqdm import tqdm as tqdm_bar
 from unsafe_datasets import *
 from vlms import *
 
@@ -70,7 +70,7 @@ def main(model_name: str="llava-v1.5-7b",
             done_keys = {item["image_fname"] for item in result if item.get("output") is not None}
             print(f"Resume enabled: loaded {len(done_keys)} existing responses from {result_path}")
 
-        for item in tqdm(dataset):
+        for item in tqdm_bar(dataset):
 
             if capability == "perception":
                 category, unsafe_concept, image_fname, option_str, correct_option = item
