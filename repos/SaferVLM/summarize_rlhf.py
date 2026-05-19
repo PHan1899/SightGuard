@@ -14,7 +14,7 @@ from collections import Counter
 import nltk
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from itertools import combinations
-from measure import load_alignment_classifier
+from summarize_measure import load_alignment_classifier
 import tqdm
 
 def compute_self_bleu(sentences):
