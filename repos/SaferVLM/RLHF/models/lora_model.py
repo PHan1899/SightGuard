@@ -187,7 +187,15 @@ def get_accelerate_model(
 
         else:
             print(f'adding LoRA modules from scratch...')
-            modules = args.lora_modules or find_all_linear_names(args, model)
+            modules = args.lora_modules or [
+                "q_proj",
+                "k_proj",
+                "v_proj",
+                "o_proj",
+                "gate_proj",
+                "up_proj",
+                "down_proj",
+            ]
  
             config = LoraConfig(
                 r=args.lora_r,
