@@ -6,7 +6,7 @@
 
 目标模型：LLaVA-1.5-7B
 
-当前状态：已完成原始 LLaVA-1.5-7B 在 UnsafeConcepts 与 JailBreakV-2K 上的 baseline 评测；SaferVLM-SFT baseline 正在训练/评测中。后续服务器跑完实验后，继续补充其余 `待填写` 字段。
+当前状态：已完成原始 LLaVA-1.5-7B 在 UnsafeConcepts 与 JailBreakV-2K 上的 baseline 评测；已完成 SaferVLM-SFT baseline 在 UnsafeConcepts_TEST 上的评测。后续服务器跑完实验后，继续补充其余 `待填写` 字段。
 
 ## 1. 实验总览
 
@@ -197,12 +197,12 @@
 | 评测设置 | 原始模型分数 | 我们的微调模型分数 | 绝对变化 |
 | --- | ---: | ---: | ---: |
 | Perception | 0.929802 | 待填写 | 待填写 |
-| Alignment | 0.428207 | 待填写 | 待填写 |
+| Alignment | 0.428207 | 0.939 | +0.510793 |
 | Text-only | 0.957746 | 待填写 | 待填写 |
 
 ### 7.2 结果备注
 
-- 主要提升：待填写
+- 主要提升：SaferVLM-SFT baseline 在 UnsafeConcepts_TEST 上将 alignment accuracy 提升到 0.939；相对原始模型 alignment 0.428207，绝对提升约 +0.510793。
 - perception 是否下降：待填写
 - text-only 是否下降：待填写
 - 日志 / 输出路径：待填写
@@ -323,7 +323,7 @@
 | 原始模型容易受到 JailBreakV 攻击 | 支持 | JailBreakV-2K Overall ASR 0.909000；1818/2000 攻击成功 |
 | Bridging-the-Gap 有一定改善，但总体仍不够 | 待填写 | 待填写 |
 | Bridging-the-Gap 对 text-heavy attacks 改善有限 | 待填写 | 待填写 |
-| 我们的方法提升 UnsafeConcepts alignment | 待填写 | 待填写 |
+| 我们的方法提升 UnsafeConcepts alignment | 待确认 | SaferVLM-SFT baseline 已将 UnsafeConcepts_TEST alignment 提升到 0.939；我们的方法需单独评测 |
 | 我们的方法基本保持 perception 稳定 | 待填写 | 待填写 |
 | 我们的方法基本保持 text-only 行为稳定 | 待填写 | 待填写 |
 | 我们的方法降低 JailBreakV 总体 ASR | 待填写 | 待填写 |
@@ -339,7 +339,7 @@
 | 原始模型 UnsafeConcepts | `data/VLM_responses/llava-v1.5-7b`；`results/perception_result.xlsx`；`results/alignment_result.xlsx`；`results/alignment_text_only_result.xlsx` | Perception 0.929802；Alignment 0.428207；Text-only 0.957746 |
 | 原始模型 JailBreakV | `server_results/jailbreakv/llava-v1.5-7b/JailBreakV_28K.csv` on branch `results/llava-jailbreakv-2k` | 2000 条 response；ASR 0.909000 |
 | Bridging-the-Gap JailBreakV | 待填写 | 待填写 |
-| 我们的模型 UnsafeConcepts | 待填写 | 待填写 |
+| 我们的模型 UnsafeConcepts | `outputs/sft_5090_ckpt300/sft/UnsafeConcepts_TEST_result.json`；`results/rlhf_sft_5090_ckpt300/alignment_result.xlsx` | 当前记录为 SaferVLM-SFT baseline：Agg 0.939 / 0.061；Safe 0.916 / 0.119；Unsafe 0.962 / 0.009 |
 | 我们的模型 JailBreakV | 待填写 | 待填写 |
 | 响应类型分析 | 待填写 | 待填写 |
 | 训练日志 | 待填写 | 待填写 |
