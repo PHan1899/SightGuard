@@ -109,27 +109,34 @@ def get_accelerate_model(
 
     # print(f"loading base model {args.base_model_name}...")
 
-    model = LlavaLlamaForCausalLM.from_pretrained(
-        args.base_model_name,
-        load_in_4bit=args.bits == 4,
-        load_in_8bit=args.bits == 8,
+    model_kwargs = dict(
         device_map={"": current_device},
-        quantization_config=BitsAndBytesConfig(
-            load_in_4bit=args.bits == 4,
-            load_in_8bit=args.bits == 8,
-            llm_int8_threshold=6.0,
-            llm_int8_has_fp16_weight=False,
-            bnb_4bit_compute_dtype=compute_dtype,
-            bnb_4bit_use_double_quant=args.double_quant,
-            bnb_4bit_quant_type=args.quant_type,
-            llm_int8_skip_modules=["mm_projector", "lm_head"],
-        ),
         torch_dtype=(
             torch.float32
             if args.fp16
             else (torch.bfloat16 if args.bf16 else torch.float32)
         ),
         trust_remote_code=args.trust_remote_code,
+    )
+    if args.bits in [4, 8]:
+        model_kwargs.update(
+            load_in_4bit=args.bits == 4,
+            load_in_8bit=args.bits == 8,
+            quantization_config=BitsAndBytesConfig(
+                load_in_4bit=args.bits == 4,
+                load_in_8bit=args.bits == 8,
+                llm_int8_threshold=6.0,
+                llm_int8_has_fp16_weight=False,
+                bnb_4bit_compute_dtype=compute_dtype,
+                bnb_4bit_use_double_quant=args.double_quant,
+                bnb_4bit_quant_type=args.quant_type,
+                llm_int8_skip_modules=["mm_projector", "lm_head"],
+            ),
+        )
+
+    model = LlavaLlamaForCausalLM.from_pretrained(
+        args.base_model_name,
+        **model_kwargs,
     )
     if compute_dtype == torch.float16 and args.bits == 4:
         major, minor = torch.cuda.get_device_capability()
