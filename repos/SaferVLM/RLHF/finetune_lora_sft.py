@@ -434,7 +434,7 @@ def train():
         data_args=data_args,
     )
     
-    model = get_accelerate_model(args, resume_from_checkpoint=None)
+    model = get_accelerate_model(args, checkpoint_dir=None)
 
     # set_seed(args.seed)
     
