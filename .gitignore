@@ -8,6 +8,8 @@
 **/outputs/
 **/results/
 **/checkpoints/
+**/data/JailBreakV_2K/
+**/data/ours/
 **/wandb/
 **/__pycache__/
 **/.ipynb_checkpoints/
